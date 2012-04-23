@@ -1,21 +1,25 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<Skein rootNode="node-0x9f4e918" xmlns="http://www.logicalshift.org.uk/IF/Skein">
+<Skein rootNode="node-0xa2920f8" xmlns="http://www.logicalshift.org.uk/IF/Skein">
   <generator>GNOME Inform 7</generator>
-  <activeNode nodeId="node-0xa4f13a8"/>
-  <item nodeId="node-0x9f4e918">
+  <activeNode nodeId="node-0x211dfc58"/>
+  <item nodeId="node-0xa2920f8">
     <command xml:space="preserve">- start -</command>
     <result xml:space="preserve">
 
 
 
-You are dead.  This is a unique way to begin.  Item: &quot;Science Fiction Author falls to death during drinking contest at Science Fiction Convention.  A proper opening will go here...&quot;
+Item: &quot;Science Fiction Author to attend  Science Fiction Convention.  A proper opening will go here...&quot;
 
 Inferno
 An Interactive Fiction by Larry Niven and Jerry Pournelle
-Release 1 / Serial number 120419 / Inform 7 build 6G60 (I6/v6.32 lib 6/12N) SD
+Release 1 / Serial number 120424 / Inform 7 build 6G60 (I6/v6.32 lib 6/12N) SD
 
-Bronze
-All you can see is a featureless bronze nothingness.  You can&apos;t even see... yourself.
+Con-Suite
+The Con-Suite is on the tenth floor of the some hotel or other.  You&apos;ve been drinking, and can&apos;t quite remember which one.  On the east side of the room is an open window.
+
+Isaac Asimov is here, surrounded by a gaggle of fans, holding forth in a somewhat ill fitting suit.
+
+You can also see a Middle-aged Adolescent here.
 
 &gt;</result>
     <commentary xml:space="preserve"></commentary>
@@ -24,26 +28,35 @@ All you can see is a featureless bronze nothingness.  You can&apos;t even see...
     <temporary score="0">NO</temporary>
     <annotation xml:space="preserve"></annotation>
     <children>
-      <child nodeId="node-0x9f4e9f0"/>
-      <child nodeId="node-0xa2ca9e8"/>
-      <child nodeId="node-0xa410018"/>
-      <child nodeId="node-0xa4101c8"/>
-      <child nodeId="node-0xa41db90"/>
-      <child nodeId="node-0xa42c1f8"/>
-      <child nodeId="node-0xa43a360"/>
-      <child nodeId="node-0xa456108"/>
-      <child nodeId="node-0xa464818"/>
-      <child nodeId="node-0xa464b78"/>
-      <child nodeId="node-0xa4732c8"/>
-      <child nodeId="node-0xa48f370"/>
-      <child nodeId="node-0xa4ad520"/>
-      <child nodeId="node-0xa4e35f0"/>
+      <child nodeId="node-0xa2921d0"/>
+      <child nodeId="node-0xa3cc1e0"/>
+      <child nodeId="node-0xa5269e0"/>
+      <child nodeId="node-0xa526b90"/>
+      <child nodeId="node-0xa534510"/>
+      <child nodeId="node-0xa543360"/>
+      <child nodeId="node-0xa55e628"/>
+      <child nodeId="node-0xa56cb90"/>
+      <child nodeId="node-0xa57b2b8"/>
+      <child nodeId="node-0xa57b618"/>
+      <child nodeId="node-0xa597530"/>
+      <child nodeId="node-0xa5a6e20"/>
+      <child nodeId="node-0xa5ea810"/>
+      <child nodeId="node-0xa607120"/>
+      <child nodeId="node-0xaf81d10"/>
+      <child nodeId="node-0xb40d558"/>
+      <child nodeId="node-0xb40d480"/>
+      <child nodeId="node-0x15228048"/>
+      <child nodeId="node-0x152282d0"/>
+      <child nodeId="node-0x1a622c78"/>
+      <child nodeId="node-0x211df820"/>
+      <child nodeId="node-0x211df9d0"/>
+      <child nodeId="node-0x211dfaa8"/>
     </children>
   </item>
-  <item nodeId="node-0x9f4e9f0">
+  <item nodeId="node-0xa2921d0">
     <command xml:space="preserve">look</command>
-    <result xml:space="preserve">Bronze
-All you can see is a featureless bronze nothingness.  You can&apos;t even see... yourself.
+    <result xml:space="preserve">Con-Suite
+The Con-Suite is ...
 
 &gt;</result>
     <commentary xml:space="preserve"></commentary>
@@ -52,17 +65,20 @@ All you can see is a featureless bronze nothingness.  You can&apos;t even see...
     <temporary score="0">YES</temporary>
     <annotation xml:space="preserve"></annotation>
     <children>
-      <child nodeId="node-0x9f4eac8"/>
-      <child nodeId="node-0x9f4ed50"/>
-      <child nodeId="node-0x9f4ef00"/>
-      <child nodeId="node-0xa29f1f0"/>
-      <child nodeId="node-0xa29f700"/>
-      <child nodeId="node-0xa2ae020"/>
-      <child nodeId="node-0xa2ae608"/>
-      <child nodeId="node-0xa2ae6e0"/>
+      <child nodeId="node-0xa2922a8"/>
+      <child nodeId="node-0xa292530"/>
+      <child nodeId="node-0xa2926e0"/>
+      <child nodeId="node-0xa3a21e8"/>
+      <child nodeId="node-0xa3a26f8"/>
+      <child nodeId="node-0xa3b1048"/>
+      <child nodeId="node-0xa3b1630"/>
+      <child nodeId="node-0xa3b1708"/>
+      <child nodeId="node-0xaf81c38"/>
+      <child nodeId="node-0xaf81b60"/>
+      <child nodeId="node-0xb40d048"/>
     </children>
   </item>
-  <item nodeId="node-0x9f4eac8">
+  <item nodeId="node-0xa2922a8">
     <command xml:space="preserve">taiste</command>
     <result xml:space="preserve">That&apos;s not a verb I recognise.
 
@@ -73,10 +89,10 @@ All you can see is a featureless bronze nothingness.  You can&apos;t even see...
     <temporary score="0">YES</temporary>
     <annotation xml:space="preserve"></annotation>
     <children>
-      <child nodeId="node-0x9f4eba0"/>
+      <child nodeId="node-0xa292380"/>
     </children>
   </item>
-  <item nodeId="node-0x9f4eba0">
+  <item nodeId="node-0xa292380">
     <command xml:space="preserve">run</command>
     <result xml:space="preserve">You&apos;ll have to say which compass direction to go in.
 
@@ -87,10 +103,10 @@ All you can see is a featureless bronze nothingness.  You can&apos;t even see...
     <temporary score="0">YES</temporary>
     <annotation xml:space="preserve"></annotation>
     <children>
-      <child nodeId="node-0x9f4ec78"/>
+      <child nodeId="node-0xa292458"/>
     </children>
   </item>
-  <item nodeId="node-0x9f4ec78">
+  <item nodeId="node-0xa292458">
     <command xml:space="preserve">pray</command>
     <result xml:space="preserve">That&apos;s not a verb I recognise.
 
@@ -101,7 +117,7 @@ All you can see is a featureless bronze nothingness.  You can&apos;t even see...
     <temporary score="0">YES</temporary>
     <annotation xml:space="preserve"></annotation>
   </item>
-  <item nodeId="node-0x9f4ed50">
+  <item nodeId="node-0xa292530">
     <command xml:space="preserve">walk</command>
     <result xml:space="preserve">You&apos;ll have to say which compass direction to go in.
 
@@ -112,10 +128,10 @@ All you can see is a featureless bronze nothingness.  You can&apos;t even see...
     <temporary score="0">YES</temporary>
     <annotation xml:space="preserve"></annotation>
     <children>
-      <child nodeId="node-0x9f4ee28"/>
+      <child nodeId="node-0xa292608"/>
     </children>
   </item>
-  <item nodeId="node-0x9f4ee28">
+  <item nodeId="node-0xa292608">
     <command xml:space="preserve">east</command>
     <result xml:space="preserve">You can&apos;t go that way.
 
@@ -126,7 +142,7 @@ All you can see is a featureless bronze nothingness.  You can&apos;t even see...
     <temporary score="0">YES</temporary>
     <annotation xml:space="preserve"></annotation>
   </item>
-  <item nodeId="node-0x9f4ef00">
+  <item nodeId="node-0xa2926e0">
     <command xml:space="preserve">look at sky</command>
     <result xml:space="preserve">You can move, or rather you can move?  There is no place to go!
 
@@ -137,11 +153,11 @@ All you can see is a featureless bronze nothingness.  You can&apos;t even see...
     <temporary score="0">YES</temporary>
     <annotation xml:space="preserve"></annotation>
     <children>
-      <child nodeId="node-0xa291810"/>
-      <child nodeId="node-0xa2918e8"/>
+      <child nodeId="node-0xa394020"/>
+      <child nodeId="node-0xa3940f8"/>
     </children>
   </item>
-  <item nodeId="node-0xa291810">
+  <item nodeId="node-0xa394020">
     <command xml:space="preserve">look sky</command>
     <result xml:space="preserve">I only understood you as far as wanting to look.
 
@@ -152,7 +168,7 @@ All you can see is a featureless bronze nothingness.  You can&apos;t even see...
     <temporary score="0">YES</temporary>
     <annotation xml:space="preserve"></annotation>
   </item>
-  <item nodeId="node-0xa2918e8">
+  <item nodeId="node-0xa3940f8">
     <command xml:space="preserve">shout</command>
     <result xml:space="preserve">You shout, &quot;For the love of God, get me out of here!&quot;  You suddenly feel like you exist again... and look around you...
 
@@ -170,10 +186,10 @@ fat man is here.
     <temporary score="0">YES</temporary>
     <annotation xml:space="preserve"></annotation>
     <children>
-      <child nodeId="node-0xa2919c0"/>
+      <child nodeId="node-0xa3941d0"/>
     </children>
   </item>
-  <item nodeId="node-0xa2919c0">
+  <item nodeId="node-0xa3941d0">
     <command xml:space="preserve">ask fat</command>
     <result xml:space="preserve">You can only do that to something animate.
 
@@ -184,10 +200,10 @@ fat man is here.
     <temporary score="0">YES</temporary>
     <annotation xml:space="preserve"></annotation>
     <children>
-      <child nodeId="node-0xa291a98"/>
+      <child nodeId="node-0xa3942a8"/>
     </children>
   </item>
-  <item nodeId="node-0xa291a98">
+  <item nodeId="node-0xa3942a8">
     <command xml:space="preserve">talk</command>
     <result xml:space="preserve">That&apos;s not a verb I recognise.
 
@@ -198,10 +214,10 @@ fat man is here.
     <temporary score="0">YES</temporary>
     <annotation xml:space="preserve"></annotation>
     <children>
-      <child nodeId="node-0xa291b70"/>
+      <child nodeId="node-0xa394380"/>
     </children>
   </item>
-  <item nodeId="node-0xa291b70">
+  <item nodeId="node-0xa394380">
     <command xml:space="preserve">speak</command>
     <result xml:space="preserve">&gt;</result>
     <commentary xml:space="preserve"></commentary>
@@ -210,10 +226,10 @@ fat man is here.
     <temporary score="0">YES</temporary>
     <annotation xml:space="preserve"></annotation>
     <children>
-      <child nodeId="node-0xa291c48"/>
+      <child nodeId="node-0xa394458"/>
     </children>
   </item>
-  <item nodeId="node-0xa291c48">
+  <item nodeId="node-0xa394458">
     <command xml:space="preserve">speak to fat</command>
     <result xml:space="preserve">I only understood you as far as wanting to speak.
 
@@ -224,10 +240,10 @@ fat man is here.
     <temporary score="0">YES</temporary>
     <annotation xml:space="preserve"></annotation>
     <children>
-      <child nodeId="node-0xa291d20"/>
+      <child nodeId="node-0xa394530"/>
     </children>
   </item>
-  <item nodeId="node-0xa291d20">
+  <item nodeId="node-0xa394530">
     <command xml:space="preserve">speak fat</command>
     <result xml:space="preserve">(to yourself)
 There is no reply.
@@ -239,10 +255,10 @@ There is no reply.
     <temporary score="0">YES</temporary>
     <annotation xml:space="preserve"></annotation>
     <children>
-      <child nodeId="node-0xa291df8"/>
+      <child nodeId="node-0xa394608"/>
     </children>
   </item>
-  <item nodeId="node-0xa291df8">
+  <item nodeId="node-0xa394608">
     <command xml:space="preserve">speak to benito</command>
     <result xml:space="preserve">I only understood you as far as wanting to speak.
 
@@ -253,10 +269,10 @@ There is no reply.
     <temporary score="0">YES</temporary>
     <annotation xml:space="preserve"></annotation>
     <children>
-      <child nodeId="node-0xa291ed0"/>
+      <child nodeId="node-0xa3946e0"/>
     </children>
   </item>
-  <item nodeId="node-0xa291ed0">
+  <item nodeId="node-0xa3946e0">
     <command xml:space="preserve">examine fat</command>
     <result xml:space="preserve">You ask the fat man who he is and he replies &quot;I am Benito, I rescued you from the bottle.&quot;
 
@@ -267,10 +283,10 @@ There is no reply.
     <temporary score="0">YES</temporary>
     <annotation xml:space="preserve"></annotation>
     <children>
-      <child nodeId="node-0xa29f040"/>
+      <child nodeId="node-0xa3a2038"/>
     </children>
   </item>
-  <item nodeId="node-0xa29f040">
+  <item nodeId="node-0xa3a2038">
     <command xml:space="preserve">speak to benito</command>
     <result xml:space="preserve">I only understood you as far as wanting to speak.
 
@@ -281,10 +297,10 @@ There is no reply.
     <temporary score="0">YES</temporary>
     <annotation xml:space="preserve"></annotation>
     <children>
-      <child nodeId="node-0xa29f118"/>
+      <child nodeId="node-0xa3a2110"/>
     </children>
   </item>
-  <item nodeId="node-0xa29f118">
+  <item nodeId="node-0xa3a2110">
     <command xml:space="preserve">ask benito </command>
     <result xml:space="preserve">You can only do that to something animate.
 
@@ -295,7 +311,7 @@ There is no reply.
     <temporary score="0">YES</temporary>
     <annotation xml:space="preserve"></annotation>
   </item>
-  <item nodeId="node-0xa29f1f0">
+  <item nodeId="node-0xa3a21e8">
     <command xml:space="preserve">pray</command>
     <result xml:space="preserve">You beg God for to get you out of here!  You suddenly feel like you exist again... and look around you...
 
@@ -311,10 +327,10 @@ You can see a Djinn bottle (closed) and a heavyset man here.
     <temporary score="0">YES</temporary>
     <annotation xml:space="preserve"></annotation>
     <children>
-      <child nodeId="node-0xa29f2c8"/>
+      <child nodeId="node-0xa3a22c0"/>
     </children>
   </item>
-  <item nodeId="node-0xa29f2c8">
+  <item nodeId="node-0xa3a22c0">
     <command xml:space="preserve">examine man</command>
     <result xml:space="preserve">You ask the heavyset man who he is and he replies Call me Benito, I rescued you from the bottle.
 
@@ -325,10 +341,10 @@ You can see a Djinn bottle (closed) and a heavyset man here.
     <temporary score="0">YES</temporary>
     <annotation xml:space="preserve"></annotation>
     <children>
-      <child nodeId="node-0xa29f3a0"/>
+      <child nodeId="node-0xa3a2398"/>
     </children>
   </item>
-  <item nodeId="node-0xa29f3a0">
+  <item nodeId="node-0xa3a2398">
     <command xml:space="preserve">look</command>
     <result xml:space="preserve">Rolling Plain
 You are on a large grassy plain.
@@ -342,10 +358,10 @@ You can see a Djinn bottle (closed) and Benito here.
     <temporary score="0">YES</temporary>
     <annotation xml:space="preserve"></annotation>
     <children>
-      <child nodeId="node-0xa29f478"/>
+      <child nodeId="node-0xa3a2470"/>
     </children>
   </item>
-  <item nodeId="node-0xa29f478">
+  <item nodeId="node-0xa3a2470">
     <command xml:space="preserve">examine sky</command>
     <result xml:space="preserve">You can&apos;t see any such thing.
 
@@ -356,10 +372,10 @@ You can see a Djinn bottle (closed) and Benito here.
     <temporary score="0">YES</temporary>
     <annotation xml:space="preserve"></annotation>
     <children>
-      <child nodeId="node-0xa29f550"/>
+      <child nodeId="node-0xa3a2548"/>
     </children>
   </item>
-  <item nodeId="node-0xa29f550">
+  <item nodeId="node-0xa3a2548">
     <command xml:space="preserve">look up</command>
     <result xml:space="preserve">I only understood you as far as wanting to look.
 
@@ -370,10 +386,10 @@ You can see a Djinn bottle (closed) and Benito here.
     <temporary score="0">YES</temporary>
     <annotation xml:space="preserve"></annotation>
     <children>
-      <child nodeId="node-0xa29f628"/>
+      <child nodeId="node-0xa3a2620"/>
     </children>
   </item>
-  <item nodeId="node-0xa29f628">
+  <item nodeId="node-0xa3a2620">
     <command xml:space="preserve">look at sky</command>
     <result xml:space="preserve">You can&apos;t see any such thing.
 
@@ -384,7 +400,7 @@ You can see a Djinn bottle (closed) and Benito here.
     <temporary score="0">YES</temporary>
     <annotation xml:space="preserve"></annotation>
   </item>
-  <item nodeId="node-0xa29f700">
+  <item nodeId="node-0xa3a26f8">
     <command xml:space="preserve">yell</command>
     <result xml:space="preserve">That&apos;s not a verb I recognise.
 
@@ -395,7 +411,7 @@ You can see a Djinn bottle (closed) and Benito here.
     <temporary score="0">YES</temporary>
     <annotation xml:space="preserve"></annotation>
   </item>
-  <item nodeId="node-0xa2ae020">
+  <item nodeId="node-0xa3b1048">
     <command xml:space="preserve">north</command>
     <result xml:space="preserve">You can move, or rather you can move, but there is no where to move, so are you moving?
 
@@ -406,11 +422,11 @@ You can see a Djinn bottle (closed) and Benito here.
     <temporary score="0">YES</temporary>
     <annotation xml:space="preserve"></annotation>
     <children>
-      <child nodeId="node-0xa2ae0f8"/>
-      <child nodeId="node-0xa2ae380"/>
+      <child nodeId="node-0xa3b1120"/>
+      <child nodeId="node-0xa3b13a8"/>
     </children>
   </item>
-  <item nodeId="node-0xa2ae0f8">
+  <item nodeId="node-0xa3b1120">
     <command xml:space="preserve">shout</command>
     <result xml:space="preserve">You shout, &quot;for the love of God, get me out of here!&quot;  You suddenly feel like you exist again... and look around you...
 
@@ -428,10 +444,10 @@ You can also see a heavyset man here.
     <temporary score="0">YES</temporary>
     <annotation xml:space="preserve"></annotation>
     <children>
-      <child nodeId="node-0xa2ae1d0"/>
+      <child nodeId="node-0xa3b11f8"/>
     </children>
   </item>
-  <item nodeId="node-0xa2ae1d0">
+  <item nodeId="node-0xa3b11f8">
     <command xml:space="preserve">take bottle</command>
     <result xml:space="preserve">You can move, or rather you can move, but there is no where to move, so are you moving?
 
@@ -442,10 +458,10 @@ You can also see a heavyset man here.
     <temporary score="0">YES</temporary>
     <annotation xml:space="preserve"></annotation>
     <children>
-      <child nodeId="node-0xa2ae2a8"/>
+      <child nodeId="node-0xa3b12d0"/>
     </children>
   </item>
-  <item nodeId="node-0xa2ae2a8">
+  <item nodeId="node-0xa3b12d0">
     <command xml:space="preserve">n</command>
     <result xml:space="preserve">You can move, or rather you can move, but there is no where to move, so are you moving?
 
@@ -456,7 +472,7 @@ You can also see a heavyset man here.
     <temporary score="0">YES</temporary>
     <annotation xml:space="preserve"></annotation>
   </item>
-  <item nodeId="node-0xa2ae380">
+  <item nodeId="node-0xa3b13a8">
     <command xml:space="preserve">pray</command>
     <result xml:space="preserve">You shout, &quot;for the love of God, get me out of here!&quot;  You suddenly feel like you exist again... and look around you...
 
@@ -474,10 +490,10 @@ You can also see a heavyset man here.
     <temporary score="0">YES</temporary>
     <annotation xml:space="preserve"></annotation>
     <children>
-      <child nodeId="node-0xa2ae458"/>
+      <child nodeId="node-0xa3b1480"/>
     </children>
   </item>
-  <item nodeId="node-0xa2ae458">
+  <item nodeId="node-0xa3b1480">
     <command xml:space="preserve">pray</command>
     <result xml:space="preserve">You shout, &quot;for the love of God, get me out of here!&quot;  You suddenly feel like you exist again... and look around you...
 
@@ -495,10 +511,10 @@ You can also see a heavyset man here.
     <temporary score="0">YES</temporary>
     <annotation xml:space="preserve"></annotation>
     <children>
-      <child nodeId="node-0xa2ae530"/>
+      <child nodeId="node-0xa3b1558"/>
     </children>
   </item>
-  <item nodeId="node-0xa2ae530">
+  <item nodeId="node-0xa3b1558">
     <command xml:space="preserve">north</command>
     <result xml:space="preserve">You can&apos;t go that way.
 
@@ -509,7 +525,7 @@ You can also see a heavyset man here.
     <temporary score="0">YES</temporary>
     <annotation xml:space="preserve"></annotation>
   </item>
-  <item nodeId="node-0xa2ae608">
+  <item nodeId="node-0xa3b1630">
     <command xml:space="preserve">look</command>
     <result xml:space="preserve">Bronze
 All you can see is a featureless bronze nothingness.  You can&apos;t even see... yourself.
@@ -523,7 +539,7 @@ You can see a heavyset man here.
     <temporary score="0">YES</temporary>
     <annotation xml:space="preserve"></annotation>
   </item>
-  <item nodeId="node-0xa2ae6e0">
+  <item nodeId="node-0xa3b1708">
     <command xml:space="preserve">scream</command>
     <result xml:space="preserve">That&apos;s not a verb I recognise.
 
@@ -534,10 +550,10 @@ You can see a heavyset man here.
     <temporary score="0">YES</temporary>
     <annotation xml:space="preserve"></annotation>
     <children>
-      <child nodeId="node-0xa2ca838"/>
+      <child nodeId="node-0xa3cc030"/>
     </children>
   </item>
-  <item nodeId="node-0xa2ca838">
+  <item nodeId="node-0xa3cc030">
     <command xml:space="preserve">shout</command>
     <result xml:space="preserve">You shout, &quot;For the love of God, get me out of here!&quot;  You suddenly feel like you exist again... and look around you...
 
@@ -555,10 +571,10 @@ You can also see a heavyset man here.
     <temporary score="0">YES</temporary>
     <annotation xml:space="preserve"></annotation>
     <children>
-      <child nodeId="node-0xa2ca910"/>
+      <child nodeId="node-0xa3cc108"/>
     </children>
   </item>
-  <item nodeId="node-0xa2ca910">
+  <item nodeId="node-0xa3cc108">
     <command xml:space="preserve">n</command>
     <result xml:space="preserve">You can&apos;t go that way.
 
@@ -569,20 +585,20 @@ You can also see a heavyset man here.
     <temporary score="0">YES</temporary>
     <annotation xml:space="preserve"></annotation>
   </item>
-  <item nodeId="node-0xa2ca9e8">
-    <command xml:space="preserve">pray</command>
-    <result xml:space="preserve">You shout, &quot;For the love of God, get me out of here!&quot;  You suddenly feel like you exist again... and look around you...
+  <item nodeId="node-0xaf81c38">
+    <command xml:space="preserve">smell</command>
+    <result xml:space="preserve">It smells foetid, with an acrid tinge, decay and sickly sweet perfume to cover the smells of death, orange blossoms mingled with hospital smells, but sickening all the same.
 
-Rolling Plain
-You are on a large grassy plain.  To the north you see a river and a wall, far in the distance.  To the east a large group of people seem to be chasing a banner.
-
-A bronze Djinn Bottle is laying on the ground.
-
-You can also see a fat guy and a large rock here.
-
-The fat man says, &quot;I am Benito, I rescued you from the bottle.
-
-&quot;It is over now. God will not allow you back into the bottle. I cannot assure you that there will be nothing worse before you leave Hell. There will be much worse. But with faith and hope you will endure it, and you will be able to leave.&quot;
+&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>NO</played>
+    <changed>YES</changed>
+    <temporary score="0">YES</temporary>
+    <annotation xml:space="preserve"></annotation>
+  </item>
+  <item nodeId="node-0xaf81b60">
+    <command xml:space="preserve">look gnats</command>
+    <result xml:space="preserve">You can&apos;t see any such thing.
 
 &gt;</result>
     <commentary xml:space="preserve"></commentary>
@@ -591,26 +607,149 @@ The fat man says, &quot;I am Benito, I rescued you from the bottle.
     <temporary score="0">YES</temporary>
     <annotation xml:space="preserve"></annotation>
     <children>
-      <child nodeId="node-0xa2caac0"/>
-      <child nodeId="node-0xa2cad48"/>
-      <child nodeId="node-0xa2d88e8"/>
-      <child nodeId="node-0xa2d8a98"/>
-      <child nodeId="node-0xa2e72a8"/>
-      <child nodeId="node-0xa302820"/>
-      <child nodeId="node-0xa3111b8"/>
-      <child nodeId="node-0xa3115f0"/>
-      <child nodeId="node-0xa3309e8"/>
-      <child nodeId="node-0xa3519f8"/>
-      <child nodeId="node-0xa361450"/>
-      <child nodeId="node-0xa3996e8"/>
-      <child nodeId="node-0xa3a69e8"/>
-      <child nodeId="node-0xa3b5388"/>
-      <child nodeId="node-0xa3e59d0"/>
-      <child nodeId="node-0xa3f3100"/>
-      <child nodeId="node-0xa3f3460"/>
+      <child nodeId="node-0xaf81de8"/>
     </children>
   </item>
-  <item nodeId="node-0xa2caac0">
+  <item nodeId="node-0xaf81de8">
+    <command xml:space="preserve">listen</command>
+    <result xml:space="preserve">You hear nothing unexpected.
+
+&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>NO</played>
+    <changed>YES</changed>
+    <temporary score="0">YES</temporary>
+    <annotation xml:space="preserve"></annotation>
+    <children>
+      <child nodeId="node-0xaf81ec0"/>
+    </children>
+  </item>
+  <item nodeId="node-0xaf81ec0">
+    <command xml:space="preserve">talk to benito</command>
+    <result xml:space="preserve">You can&apos;t see any such thing.
+
+&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>NO</played>
+    <changed>YES</changed>
+    <temporary score="0">YES</temporary>
+    <annotation xml:space="preserve"></annotation>
+  </item>
+  <item nodeId="node-0xb40d048">
+    <command xml:space="preserve">who</command>
+    <result xml:space="preserve">That&apos;s not a verb I recognise.
+
+&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>NO</played>
+    <changed>YES</changed>
+    <temporary score="0">YES</temporary>
+    <annotation xml:space="preserve"></annotation>
+    <children>
+      <child nodeId="node-0xb40d120"/>
+    </children>
+  </item>
+  <item nodeId="node-0xb40d120">
+    <command xml:space="preserve">invent</command>
+    <result xml:space="preserve">That&apos;s not a verb I recognise.
+
+&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>NO</played>
+    <changed>YES</changed>
+    <temporary score="0">YES</temporary>
+    <annotation xml:space="preserve"></annotation>
+    <children>
+      <child nodeId="node-0xb40d1f8"/>
+    </children>
+  </item>
+  <item nodeId="node-0xb40d1f8">
+    <command xml:space="preserve">inventory</command>
+    <result xml:space="preserve">You are carrying nothing.
+
+&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>NO</played>
+    <changed>YES</changed>
+    <temporary score="0">YES</temporary>
+    <annotation xml:space="preserve"></annotation>
+    <children>
+      <child nodeId="node-0xb40d2d0"/>
+    </children>
+  </item>
+  <item nodeId="node-0xb40d2d0">
+    <command xml:space="preserve">look</command>
+    <result xml:space="preserve">Con-Suite
+The Con-Suite is ...
+
+&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>NO</played>
+    <changed>YES</changed>
+    <temporary score="0">YES</temporary>
+    <annotation xml:space="preserve"></annotation>
+    <children>
+      <child nodeId="node-0xb40d3a8"/>
+    </children>
+  </item>
+  <item nodeId="node-0xb40d3a8">
+    <command xml:space="preserve">jump</command>
+    <result xml:space="preserve">You jump on the spot, fruitlessly.
+
+&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>NO</played>
+    <changed>YES</changed>
+    <temporary score="0">YES</temporary>
+    <annotation xml:space="preserve"></annotation>
+  </item>
+  <item nodeId="node-0xa3cc1e0">
+    <command xml:space="preserve">pray</command>
+    <result xml:space="preserve">You shout, &quot;For the love of God, get me out of here!&quot;  You suddenly feel like you exist again... and look around you...
+
+Rolling Plain
+You are on a large grassy plain.   To the north you see a river and a wall, far in the distance.  To the east a large group of people seem to be chasing a banner.
+
+A bronze Djinn Bottle is laying on the ground.
+
+You can also see a fat guy here.
+
+The fat man says, &quot;I am Benito, I rescued you from the bottle.  What is your name?
+
+You have nothing specific in mind to discuss with Benito right now.
+
+&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>NO</played>
+    <changed>YES</changed>
+    <temporary score="0">YES</temporary>
+    <annotation xml:space="preserve"></annotation>
+    <children>
+      <child nodeId="node-0xa3cc2b8"/>
+      <child nodeId="node-0xa3cc540"/>
+      <child nodeId="node-0xa3db8f0"/>
+      <child nodeId="node-0xa3dbaa0"/>
+      <child nodeId="node-0xa3e9298"/>
+      <child nodeId="node-0xa404828"/>
+      <child nodeId="node-0xa4139e8"/>
+      <child nodeId="node-0xa413e20"/>
+      <child nodeId="node-0xa4329e8"/>
+      <child nodeId="node-0xa45a9e0"/>
+      <child nodeId="node-0xa468c40"/>
+      <child nodeId="node-0xa4a1700"/>
+      <child nodeId="node-0xa4af1e8"/>
+      <child nodeId="node-0xa4bd360"/>
+      <child nodeId="node-0xa4ed9d8"/>
+      <child nodeId="node-0xa4fb8f0"/>
+      <child nodeId="node-0xa4fbc50"/>
+      <child nodeId="node-0xa518010"/>
+      <child nodeId="node-0xa5180e8"/>
+      <child nodeId="node-0xa5185f8"/>
+      <child nodeId="node-0xaf81800"/>
+      <child nodeId="node-0xaf818d8"/>
+    </children>
+  </item>
+  <item nodeId="node-0xa3cc2b8">
     <command xml:space="preserve">praying</command>
     <result xml:space="preserve">That&apos;s not a verb I recognise.
 
@@ -621,10 +760,10 @@ The fat man says, &quot;I am Benito, I rescued you from the bottle.
     <temporary score="0">YES</temporary>
     <annotation xml:space="preserve"></annotation>
     <children>
-      <child nodeId="node-0xa2cab98"/>
+      <child nodeId="node-0xa3cc390"/>
     </children>
   </item>
-  <item nodeId="node-0xa2cab98">
+  <item nodeId="node-0xa3cc390">
     <command xml:space="preserve">look</command>
     <result xml:space="preserve">Copper Nothingness
 All you can see is a featureless copper expanse.
@@ -636,10 +775,10 @@ All you can see is a featureless copper expanse.
     <temporary score="0">YES</temporary>
     <annotation xml:space="preserve"></annotation>
     <children>
-      <child nodeId="node-0xa2cac70"/>
+      <child nodeId="node-0xa3cc468"/>
     </children>
   </item>
-  <item nodeId="node-0xa2cac70">
+  <item nodeId="node-0xa3cc468">
     <command xml:space="preserve">Pray to go</command>
     <result xml:space="preserve">That&apos;s not a verb I recognise.
 
@@ -650,7 +789,7 @@ All you can see is a featureless copper expanse.
     <temporary score="0">YES</temporary>
     <annotation xml:space="preserve"></annotation>
   </item>
-  <item nodeId="node-0xa2cad48">
+  <item nodeId="node-0xa3cc540">
     <command xml:space="preserve">look</command>
     <result xml:space="preserve">Rolling Plain
 You are on a large grassy plain.
@@ -664,10 +803,10 @@ You can see Benito here.
     <temporary score="0">YES</temporary>
     <annotation xml:space="preserve"></annotation>
     <children>
-      <child nodeId="node-0xa2cae20"/>
+      <child nodeId="node-0xa3cc618"/>
     </children>
   </item>
-  <item nodeId="node-0xa2cae20">
+  <item nodeId="node-0xa3cc618">
     <command xml:space="preserve">e</command>
     <result xml:space="preserve">You can&apos;t go that way.
 
@@ -678,10 +817,10 @@ You can see Benito here.
     <temporary score="0">YES</temporary>
     <annotation xml:space="preserve"></annotation>
     <children>
-      <child nodeId="node-0xa2caef8"/>
+      <child nodeId="node-0xa3cc6f0"/>
     </children>
   </item>
-  <item nodeId="node-0xa2caef8">
+  <item nodeId="node-0xa3cc6f0">
     <command xml:space="preserve">s</command>
     <result xml:space="preserve">You can&apos;t go that way.
 
@@ -692,10 +831,10 @@ You can see Benito here.
     <temporary score="0">YES</temporary>
     <annotation xml:space="preserve"></annotation>
     <children>
-      <child nodeId="node-0xa2d8810"/>
+      <child nodeId="node-0xa3db818"/>
     </children>
   </item>
-  <item nodeId="node-0xa2d8810">
+  <item nodeId="node-0xa3db818">
     <command xml:space="preserve">w</command>
     <result xml:space="preserve">You can&apos;t go that way.
 
@@ -706,7 +845,7 @@ You can see Benito here.
     <temporary score="0">YES</temporary>
     <annotation xml:space="preserve"></annotation>
   </item>
-  <item nodeId="node-0xa2d88e8">
+  <item nodeId="node-0xa3db8f0">
     <command xml:space="preserve">look bottle</command>
     <result xml:space="preserve">I only understood you as far as wanting to look.
 
@@ -717,10 +856,10 @@ You can see Benito here.
     <temporary score="0">YES</temporary>
     <annotation xml:space="preserve"></annotation>
     <children>
-      <child nodeId="node-0xa2d89c0"/>
+      <child nodeId="node-0xa3db9c8"/>
     </children>
   </item>
-  <item nodeId="node-0xa2d89c0">
+  <item nodeId="node-0xa3db9c8">
     <command xml:space="preserve">examine bottle</command>
     <result xml:space="preserve">You can&apos;t see any such thing.
 
@@ -731,7 +870,7 @@ You can see Benito here.
     <temporary score="0">YES</temporary>
     <annotation xml:space="preserve"></annotation>
   </item>
-  <item nodeId="node-0xa2d8a98">
+  <item nodeId="node-0xa3dbaa0">
     <command xml:space="preserve">take heavyset</command>
     <result xml:space="preserve">heavyset man resists your romantic notions...
 
@@ -742,10 +881,10 @@ You can see Benito here.
     <temporary score="0">YES</temporary>
     <annotation xml:space="preserve"></annotation>
     <children>
-      <child nodeId="node-0xa2d8b70"/>
+      <child nodeId="node-0xa3dbb78"/>
     </children>
   </item>
-  <item nodeId="node-0xa2d8b70">
+  <item nodeId="node-0xa3dbb78">
     <command xml:space="preserve">look</command>
     <result xml:space="preserve">Rolling Plain
 You are on a large grassy plain.  To the north you see a river and a wall, far in the distance.  To the east a large group of people seem to be chasing a kite.
@@ -761,10 +900,10 @@ A large, square jawed man.
     <temporary score="0">YES</temporary>
     <annotation xml:space="preserve"></annotation>
     <children>
-      <child nodeId="node-0xa2d8c48"/>
+      <child nodeId="node-0xa3dbc50"/>
     </children>
   </item>
-  <item nodeId="node-0xa2d8c48">
+  <item nodeId="node-0xa3dbc50">
     <command xml:space="preserve">examine man</command>
     <result xml:space="preserve">You ask the heavyset man who he is and he replies &quot;I am Benito, I rescued you from the bottle.&quot;
 
@@ -775,10 +914,10 @@ A large, square jawed man.
     <temporary score="0">YES</temporary>
     <annotation xml:space="preserve"></annotation>
     <children>
-      <child nodeId="node-0xa2d8d20"/>
+      <child nodeId="node-0xa3dbd28"/>
     </children>
   </item>
-  <item nodeId="node-0xa2d8d20">
+  <item nodeId="node-0xa3dbd28">
     <command xml:space="preserve">talk to benito</command>
     <result xml:space="preserve">That&apos;s not a verb I recognise.
 
@@ -789,10 +928,10 @@ A large, square jawed man.
     <temporary score="0">YES</temporary>
     <annotation xml:space="preserve"></annotation>
     <children>
-      <child nodeId="node-0xa2d8df8"/>
+      <child nodeId="node-0xa3dbe00"/>
     </children>
   </item>
-  <item nodeId="node-0xa2d8df8">
+  <item nodeId="node-0xa3dbe00">
     <command xml:space="preserve">ask benito</command>
     <result xml:space="preserve">You can only do that to something animate.
 
@@ -803,10 +942,10 @@ A large, square jawed man.
     <temporary score="0">YES</temporary>
     <annotation xml:space="preserve"></annotation>
     <children>
-      <child nodeId="node-0xa2d8ed0"/>
+      <child nodeId="node-0xa3dbed8"/>
     </children>
   </item>
-  <item nodeId="node-0xa2d8ed0">
+  <item nodeId="node-0xa3dbed8">
     <command xml:space="preserve">ask man</command>
     <result xml:space="preserve">You can only do that to something animate.
 
@@ -817,10 +956,10 @@ A large, square jawed man.
     <temporary score="0">YES</temporary>
     <annotation xml:space="preserve"></annotation>
     <children>
-      <child nodeId="node-0xa2e7020"/>
+      <child nodeId="node-0xa3e9010"/>
     </children>
   </item>
-  <item nodeId="node-0xa2e7020">
+  <item nodeId="node-0xa3e9010">
     <command xml:space="preserve">w</command>
     <result xml:space="preserve">You can&apos;t go that way.
 
@@ -831,10 +970,10 @@ A large, square jawed man.
     <temporary score="0">YES</temporary>
     <annotation xml:space="preserve"></annotation>
     <children>
-      <child nodeId="node-0xa2e70f8"/>
+      <child nodeId="node-0xa3e90e8"/>
     </children>
   </item>
-  <item nodeId="node-0xa2e70f8">
+  <item nodeId="node-0xa3e90e8">
     <command xml:space="preserve">e</command>
     <result xml:space="preserve">Kite Chase
 Benito follows dutify behind you...
@@ -846,10 +985,10 @@ Benito follows dutify behind you...
     <temporary score="0">YES</temporary>
     <annotation xml:space="preserve"></annotation>
     <children>
-      <child nodeId="node-0xa2e71d0"/>
+      <child nodeId="node-0xa3e91c0"/>
     </children>
   </item>
-  <item nodeId="node-0xa2e71d0">
+  <item nodeId="node-0xa3e91c0">
     <command xml:space="preserve">look</command>
     <result xml:space="preserve">Kite Chase
 A large, square jawed man.
@@ -861,7 +1000,7 @@ A large, square jawed man.
     <temporary score="0">YES</temporary>
     <annotation xml:space="preserve"></annotation>
   </item>
-  <item nodeId="node-0xa2e72a8">
+  <item nodeId="node-0xa3e9298">
     <command xml:space="preserve">north</command>
     <result xml:space="preserve">Wall
 No matter how far you walk, the wall never seems to get any closer...
@@ -875,10 +1014,10 @@ A fat man trudges along behind you...
     <temporary score="0">YES</temporary>
     <annotation xml:space="preserve"></annotation>
     <children>
-      <child nodeId="node-0xa2e7380"/>
+      <child nodeId="node-0xa3e9370"/>
     </children>
   </item>
-  <item nodeId="node-0xa2e7380">
+  <item nodeId="node-0xa3e9370">
     <command xml:space="preserve">n</command>
     <result xml:space="preserve">Benito says, &quot;We could walk for eternity and never reach that wall, and we have eternity.
 
@@ -889,10 +1028,10 @@ A fat man trudges along behind you...
     <temporary score="0">YES</temporary>
     <annotation xml:space="preserve"></annotation>
     <children>
-      <child nodeId="node-0xa2e7458"/>
+      <child nodeId="node-0xa3e9448"/>
     </children>
   </item>
-  <item nodeId="node-0xa2e7458">
+  <item nodeId="node-0xa3e9448">
     <command xml:space="preserve">n</command>
     <result xml:space="preserve">Benito says, &quot;We could walk for eternity and never reach that wall, and we have eternity.
 
@@ -903,10 +1042,10 @@ A fat man trudges along behind you...
     <temporary score="0">YES</temporary>
     <annotation xml:space="preserve"></annotation>
     <children>
-      <child nodeId="node-0xa2e7530"/>
+      <child nodeId="node-0xa3e9520"/>
     </children>
   </item>
-  <item nodeId="node-0xa2e7530">
+  <item nodeId="node-0xa3e9520">
     <command xml:space="preserve">n</command>
     <result xml:space="preserve">Benito says, &quot;We could walk for eternity and never reach that wall, and we have eternity.
 
@@ -917,10 +1056,10 @@ A fat man trudges along behind you...
     <temporary score="0">YES</temporary>
     <annotation xml:space="preserve"></annotation>
     <children>
-      <child nodeId="node-0xa2e7608"/>
+      <child nodeId="node-0xa3e95f8"/>
     </children>
   </item>
-  <item nodeId="node-0xa2e7608">
+  <item nodeId="node-0xa3e95f8">
     <command xml:space="preserve">n</command>
     <result xml:space="preserve">Benito says, &quot;We could walk for eternity and never reach that wall, and we have eternity.
 
@@ -931,10 +1070,10 @@ A fat man trudges along behind you...
     <temporary score="0">YES</temporary>
     <annotation xml:space="preserve"></annotation>
     <children>
-      <child nodeId="node-0xa2e76e0"/>
+      <child nodeId="node-0xa3e96d0"/>
     </children>
   </item>
-  <item nodeId="node-0xa2e76e0">
+  <item nodeId="node-0xa3e96d0">
     <command xml:space="preserve">n</command>
     <result xml:space="preserve">Benito says, &quot;We could walk for eternity and never reach that wall, and we have eternity.
 
@@ -945,7 +1084,7 @@ A fat man trudges along behind you...
     <temporary score="0">YES</temporary>
     <annotation xml:space="preserve"></annotation>
   </item>
-  <item nodeId="node-0xa302820">
+  <item nodeId="node-0xa404828">
     <command xml:space="preserve">examine fat</command>
     <result xml:space="preserve">A large, fat man with a jutting jaw is here.
 
@@ -956,12 +1095,12 @@ A fat man trudges along behind you...
     <temporary score="0">YES</temporary>
     <annotation xml:space="preserve"></annotation>
     <children>
-      <child nodeId="node-0xa3028f8"/>
-      <child nodeId="node-0xa302aa8"/>
-      <child nodeId="node-0xa311008"/>
+      <child nodeId="node-0xa404900"/>
+      <child nodeId="node-0xa404ab0"/>
+      <child nodeId="node-0xa413838"/>
     </children>
   </item>
-  <item nodeId="node-0xa3028f8">
+  <item nodeId="node-0xa404900">
     <command xml:space="preserve">t benito </command>
     <result xml:space="preserve">There&apos;s no one here to talk to.
 
@@ -972,10 +1111,10 @@ A fat man trudges along behind you...
     <temporary score="0">YES</temporary>
     <annotation xml:space="preserve"></annotation>
     <children>
-      <child nodeId="node-0xa3029d0"/>
+      <child nodeId="node-0xa4049d8"/>
     </children>
   </item>
-  <item nodeId="node-0xa3029d0">
+  <item nodeId="node-0xa4049d8">
     <command xml:space="preserve">t hell</command>
     <result xml:space="preserve">There&apos;s no one here to talk to.
 
@@ -986,7 +1125,7 @@ A fat man trudges along behind you...
     <temporary score="0">YES</temporary>
     <annotation xml:space="preserve"></annotation>
   </item>
-  <item nodeId="node-0xa302aa8">
+  <item nodeId="node-0xa404ab0">
     <command xml:space="preserve">n</command>
     <result xml:space="preserve">Wall
 No matter how far you walk, the wall never seems to get any closer...
@@ -1000,10 +1139,10 @@ Benito trudges along behind you...
     <temporary score="0">YES</temporary>
     <annotation xml:space="preserve"></annotation>
     <children>
-      <child nodeId="node-0xa302b80"/>
+      <child nodeId="node-0xa404b88"/>
     </children>
   </item>
-  <item nodeId="node-0xa302b80">
+  <item nodeId="node-0xa404b88">
     <command xml:space="preserve">n</command>
     <result xml:space="preserve">You continue walking north...
 
@@ -1014,10 +1153,10 @@ Benito trudges along behind you...
     <temporary score="0">YES</temporary>
     <annotation xml:space="preserve"></annotation>
     <children>
-      <child nodeId="node-0xa302c58"/>
+      <child nodeId="node-0xa404c60"/>
     </children>
   </item>
-  <item nodeId="node-0xa302c58">
+  <item nodeId="node-0xa404c60">
     <command xml:space="preserve">n</command>
     <result xml:space="preserve">You continue walking north...
 
@@ -1028,10 +1167,10 @@ Benito trudges along behind you...
     <temporary score="0">YES</temporary>
     <annotation xml:space="preserve"></annotation>
     <children>
-      <child nodeId="node-0xa302d30"/>
+      <child nodeId="node-0xa404d38"/>
     </children>
   </item>
-  <item nodeId="node-0xa302d30">
+  <item nodeId="node-0xa404d38">
     <command xml:space="preserve">n</command>
     <result xml:space="preserve">You continue walking north...
 
@@ -1042,10 +1181,10 @@ Benito trudges along behind you...
     <temporary score="0">YES</temporary>
     <annotation xml:space="preserve"></annotation>
     <children>
-      <child nodeId="node-0xa302e08"/>
+      <child nodeId="node-0xa404e10"/>
     </children>
   </item>
-  <item nodeId="node-0xa302e08">
+  <item nodeId="node-0xa404e10">
     <command xml:space="preserve">n</command>
     <result xml:space="preserve">You continue walking north...
 
@@ -1056,10 +1195,10 @@ Benito trudges along behind you...
     <temporary score="0">YES</temporary>
     <annotation xml:space="preserve"></annotation>
     <children>
-      <child nodeId="node-0xa302ee0"/>
+      <child nodeId="node-0xa404ee8"/>
     </children>
   </item>
-  <item nodeId="node-0xa302ee0">
+  <item nodeId="node-0xa404ee8">
     <command xml:space="preserve">n</command>
     <result xml:space="preserve">You continue walking north...
 
@@ -1070,7 +1209,7 @@ Benito trudges along behind you...
     <temporary score="0">YES</temporary>
     <annotation xml:space="preserve"></annotation>
   </item>
-  <item nodeId="node-0xa311008">
+  <item nodeId="node-0xa413838">
     <command xml:space="preserve">l</command>
     <result xml:space="preserve">Rolling Plain
 You are on a large grassy plain.  To the north you see a river and a wall, far in the distance.  To the east a large group of people seem to be chasing a kite.
@@ -1086,10 +1225,10 @@ You can also see Benito here.
     <temporary score="0">YES</temporary>
     <annotation xml:space="preserve"></annotation>
     <children>
-      <child nodeId="node-0xa3110e0"/>
+      <child nodeId="node-0xa413910"/>
     </children>
   </item>
-  <item nodeId="node-0xa3110e0">
+  <item nodeId="node-0xa413910">
     <command xml:space="preserve">examine benito</command>
     <result xml:space="preserve">Benito is here
 
@@ -1100,7 +1239,7 @@ You can also see Benito here.
     <temporary score="0">YES</temporary>
     <annotation xml:space="preserve"></annotation>
   </item>
-  <item nodeId="node-0xa3111b8">
+  <item nodeId="node-0xa4139e8">
     <command xml:space="preserve">examine guy</command>
     <result xml:space="preserve">You ask the fat man who he is and he replies &quot;I am Benito, I rescued you from the bottle.&quot;
 
@@ -1111,10 +1250,10 @@ You can also see Benito here.
     <temporary score="0">YES</temporary>
     <annotation xml:space="preserve"></annotation>
     <children>
-      <child nodeId="node-0xa311290"/>
+      <child nodeId="node-0xa413ac0"/>
     </children>
   </item>
-  <item nodeId="node-0xa311290">
+  <item nodeId="node-0xa413ac0">
     <command xml:space="preserve">l</command>
     <result xml:space="preserve">Rolling Plain
 You are on a large grassy plain.  To the north you see a river and a wall, far in the distance.  To the east a large group of people seem to be chasing a kite.
@@ -1130,10 +1269,10 @@ Benito is here.
     <temporary score="0">YES</temporary>
     <annotation xml:space="preserve"></annotation>
     <children>
-      <child nodeId="node-0xa311368"/>
+      <child nodeId="node-0xa413b98"/>
     </children>
   </item>
-  <item nodeId="node-0xa311368">
+  <item nodeId="node-0xa413b98">
     <command xml:space="preserve">t benito</command>
     <result xml:space="preserve">(addressing Benito)
 Benito does not respond.
@@ -1145,10 +1284,10 @@ Benito does not respond.
     <temporary score="0">YES</temporary>
     <annotation xml:space="preserve"></annotation>
     <children>
-      <child nodeId="node-0xa311440"/>
+      <child nodeId="node-0xa413c70"/>
     </children>
   </item>
-  <item nodeId="node-0xa311440">
+  <item nodeId="node-0xa413c70">
     <command xml:space="preserve">t hell</command>
     <result xml:space="preserve">Benito does not respond.
 
@@ -1159,10 +1298,10 @@ Benito does not respond.
     <temporary score="0">YES</temporary>
     <annotation xml:space="preserve"></annotation>
     <children>
-      <child nodeId="node-0xa311518"/>
+      <child nodeId="node-0xa413d48"/>
     </children>
   </item>
-  <item nodeId="node-0xa311518">
+  <item nodeId="node-0xa413d48">
     <command xml:space="preserve">t benito hell</command>
     <result xml:space="preserve">Benito does not respond.
 
@@ -1173,7 +1312,7 @@ Benito does not respond.
     <temporary score="0">YES</temporary>
     <annotation xml:space="preserve"></annotation>
   </item>
-  <item nodeId="node-0xa3115f0">
+  <item nodeId="node-0xa413e20">
     <command xml:space="preserve">t hell</command>
     <result xml:space="preserve">(addressing the fat guy)
 What did you say, allen?
@@ -1185,12 +1324,12 @@ What did you say, allen?
     <temporary score="0">YES</temporary>
     <annotation xml:space="preserve"></annotation>
     <children>
-      <child nodeId="node-0xa3116c8"/>
-      <child nodeId="node-0xa31fba0"/>
-      <child nodeId="node-0xa330910"/>
+      <child nodeId="node-0xa413ef8"/>
+      <child nodeId="node-0xa4223a0"/>
+      <child nodeId="node-0xa432910"/>
     </children>
   </item>
-  <item nodeId="node-0xa3116c8">
+  <item nodeId="node-0xa413ef8">
     <command xml:space="preserve">t about hell</command>
     <result xml:space="preserve">The fat guy does not respond.
 
@@ -1201,10 +1340,10 @@ What did you say, allen?
     <temporary score="0">YES</temporary>
     <annotation xml:space="preserve"></annotation>
     <children>
-      <child nodeId="node-0xa31f840"/>
+      <child nodeId="node-0xa422040"/>
     </children>
   </item>
-  <item nodeId="node-0xa31f840">
+  <item nodeId="node-0xa422040">
     <command xml:space="preserve">ask about hell</command>
     <result xml:space="preserve">The fat guy does not respond.
 
@@ -1215,10 +1354,10 @@ What did you say, allen?
     <temporary score="0">YES</temporary>
     <annotation xml:space="preserve"></annotation>
     <children>
-      <child nodeId="node-0xa31f918"/>
+      <child nodeId="node-0xa422118"/>
     </children>
   </item>
-  <item nodeId="node-0xa31f918">
+  <item nodeId="node-0xa422118">
     <command xml:space="preserve">tell </command>
     <result xml:space="preserve">What do you want to tell the fat guy about?
 
@@ -1229,10 +1368,10 @@ What did you say, allen?
     <temporary score="0">YES</temporary>
     <annotation xml:space="preserve"></annotation>
     <children>
-      <child nodeId="node-0xa31f9f0"/>
+      <child nodeId="node-0xa4221f0"/>
     </children>
   </item>
-  <item nodeId="node-0xa31f9f0">
+  <item nodeId="node-0xa4221f0">
     <command xml:space="preserve">tell hell</command>
     <result xml:space="preserve">You can&apos;t see any such thing.
 
@@ -1243,10 +1382,10 @@ What did you say, allen?
     <temporary score="0">YES</temporary>
     <annotation xml:space="preserve"></annotation>
     <children>
-      <child nodeId="node-0xa31fac8"/>
+      <child nodeId="node-0xa4222c8"/>
     </children>
   </item>
-  <item nodeId="node-0xa31fac8">
+  <item nodeId="node-0xa4222c8">
     <command xml:space="preserve">tell about hell</command>
     <result xml:space="preserve">You can&apos;t see any such thing.
 
@@ -1257,7 +1396,7 @@ What did you say, allen?
     <temporary score="0">YES</temporary>
     <annotation xml:space="preserve"></annotation>
   </item>
-  <item nodeId="node-0xa31fba0">
+  <item nodeId="node-0xa4223a0">
     <command xml:space="preserve">t dude</command>
     <result xml:space="preserve">What did you say, allen?
 
@@ -1268,10 +1407,10 @@ What did you say, allen?
     <temporary score="0">YES</temporary>
     <annotation xml:space="preserve"></annotation>
     <children>
-      <child nodeId="node-0xa31fc78"/>
+      <child nodeId="node-0xa422478"/>
     </children>
   </item>
-  <item nodeId="node-0xa31fc78">
+  <item nodeId="node-0xa422478">
     <command xml:space="preserve">talk</command>
     <result xml:space="preserve">What do you want to talk to?
 
@@ -1282,10 +1421,10 @@ What did you say, allen?
     <temporary score="0">YES</temporary>
     <annotation xml:space="preserve"></annotation>
     <children>
-      <child nodeId="node-0xa31fd50"/>
+      <child nodeId="node-0xa422550"/>
     </children>
   </item>
-  <item nodeId="node-0xa31fd50">
+  <item nodeId="node-0xa422550">
     <command xml:space="preserve">talk dude</command>
     <result xml:space="preserve">I didn&apos;t understand that sentence.
 
@@ -1296,10 +1435,10 @@ What did you say, allen?
     <temporary score="0">YES</temporary>
     <annotation xml:space="preserve"></annotation>
     <children>
-      <child nodeId="node-0xa31fe28"/>
+      <child nodeId="node-0xa422628"/>
     </children>
   </item>
-  <item nodeId="node-0xa31fe28">
+  <item nodeId="node-0xa422628">
     <command xml:space="preserve">ask dude</command>
     <result xml:space="preserve">You can&apos;t see any such thing.
 
@@ -1310,10 +1449,10 @@ What did you say, allen?
     <temporary score="0">YES</temporary>
     <annotation xml:space="preserve"></annotation>
     <children>
-      <child nodeId="node-0xa31ff00"/>
+      <child nodeId="node-0xa422700"/>
     </children>
   </item>
-  <item nodeId="node-0xa31ff00">
+  <item nodeId="node-0xa422700">
     <command xml:space="preserve">ask fat dude</command>
     <result xml:space="preserve">I didn&apos;t understand that sentence.
 
@@ -1324,10 +1463,10 @@ What did you say, allen?
     <temporary score="0">YES</temporary>
     <annotation xml:space="preserve"></annotation>
     <children>
-      <child nodeId="node-0xa330838"/>
+      <child nodeId="node-0xa432838"/>
     </children>
   </item>
-  <item nodeId="node-0xa330838">
+  <item nodeId="node-0xa432838">
     <command xml:space="preserve">t about hell</command>
     <result xml:space="preserve">What did you say, allen?
 
@@ -1338,7 +1477,7 @@ What did you say, allen?
     <temporary score="0">YES</temporary>
     <annotation xml:space="preserve"></annotation>
   </item>
-  <item nodeId="node-0xa330910">
+  <item nodeId="node-0xa432910">
     <command xml:space="preserve">ask fat about hell</command>
     <result xml:space="preserve">What did you say, allen?
 
@@ -1349,7 +1488,7 @@ What did you say, allen?
     <temporary score="0">YES</temporary>
     <annotation xml:space="preserve"></annotation>
   </item>
-  <item nodeId="node-0xa3309e8">
+  <item nodeId="node-0xa4329e8">
     <command xml:space="preserve">ask</command>
     <result xml:space="preserve">What do you want to ask about?
 
@@ -1360,10 +1499,10 @@ What did you say, allen?
     <temporary score="0">YES</temporary>
     <annotation xml:space="preserve"></annotation>
     <children>
-      <child nodeId="node-0xa330ac0"/>
+      <child nodeId="node-0xa432ac0"/>
     </children>
   </item>
-  <item nodeId="node-0xa330ac0">
+  <item nodeId="node-0xa432ac0">
     <command xml:space="preserve">ask fat </command>
     <result xml:space="preserve">What do you want to ask the fat guy about?
 
@@ -1374,10 +1513,10 @@ What did you say, allen?
     <temporary score="0">YES</temporary>
     <annotation xml:space="preserve"></annotation>
     <children>
-      <child nodeId="node-0xa330b98"/>
+      <child nodeId="node-0xa432b98"/>
     </children>
   </item>
-  <item nodeId="node-0xa330b98">
+  <item nodeId="node-0xa432b98">
     <command xml:space="preserve">ask fat hell</command>
     <result xml:space="preserve">I didn&apos;t understand that sentence.
 
@@ -1388,10 +1527,10 @@ What did you say, allen?
     <temporary score="0">YES</temporary>
     <annotation xml:space="preserve"></annotation>
     <children>
-      <child nodeId="node-0xa330c70"/>
+      <child nodeId="node-0xa432c70"/>
     </children>
   </item>
-  <item nodeId="node-0xa330c70">
+  <item nodeId="node-0xa432c70">
     <command xml:space="preserve">ash hell</command>
     <result xml:space="preserve">That&apos;s not a verb I recognise.
 
@@ -1402,10 +1541,10 @@ What did you say, allen?
     <temporary score="0">YES</temporary>
     <annotation xml:space="preserve"></annotation>
     <children>
-      <child nodeId="node-0xa330d48"/>
+      <child nodeId="node-0xa432d48"/>
     </children>
   </item>
-  <item nodeId="node-0xa330d48">
+  <item nodeId="node-0xa432d48">
     <command xml:space="preserve">t hell</command>
     <result xml:space="preserve">(addressing the fat guy)
 The fat guy does not respond.
@@ -1417,10 +1556,10 @@ The fat guy does not respond.
     <temporary score="0">YES</temporary>
     <annotation xml:space="preserve"></annotation>
     <children>
-      <child nodeId="node-0xa330e20"/>
+      <child nodeId="node-0xa432e20"/>
     </children>
   </item>
-  <item nodeId="node-0xa330e20">
+  <item nodeId="node-0xa432e20">
     <command xml:space="preserve">t hell</command>
     <result xml:space="preserve">The fat guy does not respond.
 
@@ -1431,10 +1570,10 @@ The fat guy does not respond.
     <temporary score="0">YES</temporary>
     <annotation xml:space="preserve"></annotation>
     <children>
-      <child nodeId="node-0xa330ef8"/>
+      <child nodeId="node-0xa432ef8"/>
     </children>
   </item>
-  <item nodeId="node-0xa330ef8">
+  <item nodeId="node-0xa432ef8">
     <command xml:space="preserve">t about hell</command>
     <result xml:space="preserve">The fat guy does not respond.
 
@@ -1445,10 +1584,10 @@ The fat guy does not respond.
     <temporary score="0">YES</temporary>
     <annotation xml:space="preserve"></annotation>
     <children>
-      <child nodeId="node-0xa351848"/>
+      <child nodeId="node-0xa45a830"/>
     </children>
   </item>
-  <item nodeId="node-0xa351848">
+  <item nodeId="node-0xa45a830">
     <command xml:space="preserve">ask about hell</command>
     <result xml:space="preserve">The fat guy does not respond.
 
@@ -1459,10 +1598,10 @@ The fat guy does not respond.
     <temporary score="0">YES</temporary>
     <annotation xml:space="preserve"></annotation>
     <children>
-      <child nodeId="node-0xa351920"/>
+      <child nodeId="node-0xa45a908"/>
     </children>
   </item>
-  <item nodeId="node-0xa351920">
+  <item nodeId="node-0xa45a908">
     <command xml:space="preserve">ask fat about hell</command>
     <result xml:space="preserve">The fat guy does not respond.
 
@@ -1473,7 +1612,7 @@ The fat guy does not respond.
     <temporary score="0">YES</temporary>
     <annotation xml:space="preserve"></annotation>
   </item>
-  <item nodeId="node-0xa3519f8">
+  <item nodeId="node-0xa45a9e0">
     <command xml:space="preserve">ask fat about hell</command>
     <result xml:space="preserve">fat guy says, &quot;We are dead and in hell.&quot;
 
@@ -1484,12 +1623,12 @@ The fat guy does not respond.
     <temporary score="0">YES</temporary>
     <annotation xml:space="preserve"></annotation>
     <children>
-      <child nodeId="node-0xa351ad0"/>
-      <child nodeId="node-0xa351f08"/>
-      <child nodeId="node-0xa3610f0"/>
+      <child nodeId="node-0xa45aab8"/>
+      <child nodeId="node-0xa45aef0"/>
+      <child nodeId="node-0xa4688e0"/>
     </children>
   </item>
-  <item nodeId="node-0xa351ad0">
+  <item nodeId="node-0xa45aab8">
     <command xml:space="preserve">ask benito</command>
     <result xml:space="preserve">You can&apos;t see any such thing.
 
@@ -1500,10 +1639,10 @@ The fat guy does not respond.
     <temporary score="0">YES</temporary>
     <annotation xml:space="preserve"></annotation>
     <children>
-      <child nodeId="node-0xa351ba8"/>
+      <child nodeId="node-0xa45ab90"/>
     </children>
   </item>
-  <item nodeId="node-0xa351ba8">
+  <item nodeId="node-0xa45ab90">
     <command xml:space="preserve">ask fat</command>
     <result xml:space="preserve">What do you want to ask the fat guy about?
 
@@ -1514,10 +1653,10 @@ The fat guy does not respond.
     <temporary score="0">YES</temporary>
     <annotation xml:space="preserve"></annotation>
     <children>
-      <child nodeId="node-0xa351c80"/>
+      <child nodeId="node-0xa45ac68"/>
     </children>
   </item>
-  <item nodeId="node-0xa351c80">
+  <item nodeId="node-0xa45ac68">
     <command xml:space="preserve">examine fat</command>
     <result xml:space="preserve">You ask the fat man who he is and he replies &quot;I am Benito, I rescued you from the bottle.&quot;
 
@@ -1528,10 +1667,10 @@ The fat guy does not respond.
     <temporary score="0">YES</temporary>
     <annotation xml:space="preserve"></annotation>
     <children>
-      <child nodeId="node-0xa351d58"/>
+      <child nodeId="node-0xa45ad40"/>
     </children>
   </item>
-  <item nodeId="node-0xa351d58">
+  <item nodeId="node-0xa45ad40">
     <command xml:space="preserve">ask benito</command>
     <result xml:space="preserve">What do you want to ask Benito about?
 
@@ -1542,10 +1681,10 @@ The fat guy does not respond.
     <temporary score="0">YES</temporary>
     <annotation xml:space="preserve"></annotation>
     <children>
-      <child nodeId="node-0xa351e30"/>
+      <child nodeId="node-0xa45ae18"/>
     </children>
   </item>
-  <item nodeId="node-0xa351e30">
+  <item nodeId="node-0xa45ae18">
     <command xml:space="preserve">ask benito about hell</command>
     <result xml:space="preserve">What did you say, allen?
 
@@ -1556,7 +1695,7 @@ The fat guy does not respond.
     <temporary score="0">YES</temporary>
     <annotation xml:space="preserve"></annotation>
   </item>
-  <item nodeId="node-0xa351f08">
+  <item nodeId="node-0xa45aef0">
     <command xml:space="preserve">ask benito about hell</command>
     <result xml:space="preserve">You can&apos;t see any such thing.
 
@@ -1567,10 +1706,10 @@ The fat guy does not respond.
     <temporary score="0">YES</temporary>
     <annotation xml:space="preserve"></annotation>
     <children>
-      <child nodeId="node-0xa361018"/>
+      <child nodeId="node-0xa468808"/>
     </children>
   </item>
-  <item nodeId="node-0xa361018">
+  <item nodeId="node-0xa468808">
     <command xml:space="preserve">look fat guy</command>
     <result xml:space="preserve">I only understood you as far as wanting to look.
 
@@ -1581,7 +1720,7 @@ The fat guy does not respond.
     <temporary score="0">YES</temporary>
     <annotation xml:space="preserve"></annotation>
   </item>
-  <item nodeId="node-0xa3610f0">
+  <item nodeId="node-0xa4688e0">
     <command xml:space="preserve">examine fat</command>
     <result xml:space="preserve">You ask the fat man who he is and he replies &quot;I am Benito, I rescued you from the bottle.&quot;
 
@@ -1592,10 +1731,10 @@ The fat guy does not respond.
     <temporary score="0">YES</temporary>
     <annotation xml:space="preserve"></annotation>
     <children>
-      <child nodeId="node-0xa3611c8"/>
+      <child nodeId="node-0xa4689b8"/>
     </children>
   </item>
-  <item nodeId="node-0xa3611c8">
+  <item nodeId="node-0xa4689b8">
     <command xml:space="preserve">ask benito about fish</command>
     <result xml:space="preserve">Benito does not respond.
 
@@ -1606,10 +1745,10 @@ The fat guy does not respond.
     <temporary score="0">YES</temporary>
     <annotation xml:space="preserve"></annotation>
     <children>
-      <child nodeId="node-0xa3612a0"/>
+      <child nodeId="node-0xa468a90"/>
     </children>
   </item>
-  <item nodeId="node-0xa3612a0">
+  <item nodeId="node-0xa468a90">
     <command xml:space="preserve">t fish</command>
     <result xml:space="preserve">Benito does not respond.
 
@@ -1620,10 +1759,10 @@ The fat guy does not respond.
     <temporary score="0">YES</temporary>
     <annotation xml:space="preserve"></annotation>
     <children>
-      <child nodeId="node-0xa361378"/>
+      <child nodeId="node-0xa468b68"/>
     </children>
   </item>
-  <item nodeId="node-0xa361378">
+  <item nodeId="node-0xa468b68">
     <command xml:space="preserve">t hell</command>
     <result xml:space="preserve">Benito does not respond.
 
@@ -1634,7 +1773,7 @@ The fat guy does not respond.
     <temporary score="0">YES</temporary>
     <annotation xml:space="preserve"></annotation>
   </item>
-  <item nodeId="node-0xa361450">
+  <item nodeId="node-0xa468c40">
     <command xml:space="preserve">examine fat guy</command>
     <result xml:space="preserve">You ask the fat man who he is and he replies &quot;I am Benito, I rescued you from the bottle.&quot;
 
@@ -1645,12 +1784,12 @@ The fat guy does not respond.
     <temporary score="0">YES</temporary>
     <annotation xml:space="preserve"></annotation>
     <children>
-      <child nodeId="node-0xa361528"/>
-      <child nodeId="node-0xa38a800"/>
-      <child nodeId="node-0xa38ad10"/>
+      <child nodeId="node-0xa468d18"/>
+      <child nodeId="node-0xa493018"/>
+      <child nodeId="node-0xa493528"/>
     </children>
   </item>
-  <item nodeId="node-0xa361528">
+  <item nodeId="node-0xa468d18">
     <command xml:space="preserve">ask about hell</command>
     <result xml:space="preserve">(addressing Benito)
 We are dead and in hell.
@@ -1662,10 +1801,10 @@ We are dead and in hell.
     <temporary score="0">YES</temporary>
     <annotation xml:space="preserve"></annotation>
     <children>
-      <child nodeId="node-0xa361600"/>
+      <child nodeId="node-0xa468df0"/>
     </children>
   </item>
-  <item nodeId="node-0xa361600">
+  <item nodeId="node-0xa468df0">
     <command xml:space="preserve">ask about wanker</command>
     <result xml:space="preserve">Benito does not respond.
 
@@ -1676,10 +1815,10 @@ We are dead and in hell.
     <temporary score="0">YES</temporary>
     <annotation xml:space="preserve"></annotation>
     <children>
-      <child nodeId="node-0xa3616d8"/>
+      <child nodeId="node-0xa468ec8"/>
     </children>
   </item>
-  <item nodeId="node-0xa3616d8">
+  <item nodeId="node-0xa468ec8">
     <command xml:space="preserve">ask about noodles</command>
     <result xml:space="preserve">Benito does not respond.
 
@@ -1690,10 +1829,10 @@ We are dead and in hell.
     <temporary score="0">YES</temporary>
     <annotation xml:space="preserve"></annotation>
     <children>
-      <child nodeId="node-0xa36e008"/>
+      <child nodeId="node-0xa476830"/>
     </children>
   </item>
-  <item nodeId="node-0xa36e008">
+  <item nodeId="node-0xa476830">
     <command xml:space="preserve">w</command>
     <result xml:space="preserve">You can&apos;t go that way.
 
@@ -1704,10 +1843,10 @@ We are dead and in hell.
     <temporary score="0">YES</temporary>
     <annotation xml:space="preserve"></annotation>
     <children>
-      <child nodeId="node-0xa36e0e0"/>
+      <child nodeId="node-0xa476908"/>
     </children>
   </item>
-  <item nodeId="node-0xa36e0e0">
+  <item nodeId="node-0xa476908">
     <command xml:space="preserve">e</command>
     <result xml:space="preserve">Banners
 Benito trudges along behind you...
@@ -1719,10 +1858,10 @@ Benito trudges along behind you...
     <temporary score="0">YES</temporary>
     <annotation xml:space="preserve"></annotation>
     <children>
-      <child nodeId="node-0xa36e1b8"/>
+      <child nodeId="node-0xa4769e0"/>
     </children>
   </item>
-  <item nodeId="node-0xa36e1b8">
+  <item nodeId="node-0xa4769e0">
     <command xml:space="preserve">ask about hell</command>
     <result xml:space="preserve">(addressing Benito)
 We are dead and in hell.
@@ -1734,10 +1873,10 @@ We are dead and in hell.
     <temporary score="0">YES</temporary>
     <annotation xml:space="preserve"></annotation>
     <children>
-      <child nodeId="node-0xa36e290"/>
+      <child nodeId="node-0xa476ab8"/>
     </children>
   </item>
-  <item nodeId="node-0xa36e290">
+  <item nodeId="node-0xa476ab8">
     <command xml:space="preserve">t goof</command>
     <result xml:space="preserve">Benito does not respond.
 
@@ -1748,10 +1887,10 @@ We are dead and in hell.
     <temporary score="0">YES</temporary>
     <annotation xml:space="preserve"></annotation>
     <children>
-      <child nodeId="node-0xa36e368"/>
+      <child nodeId="node-0xa476b90"/>
     </children>
   </item>
-  <item nodeId="node-0xa36e368">
+  <item nodeId="node-0xa476b90">
     <command xml:space="preserve">ask about scooby</command>
     <result xml:space="preserve">Benito does not respond.
 
@@ -1762,10 +1901,10 @@ We are dead and in hell.
     <temporary score="0">YES</temporary>
     <annotation xml:space="preserve"></annotation>
     <children>
-      <child nodeId="node-0xa36e440"/>
+      <child nodeId="node-0xa476c68"/>
     </children>
   </item>
-  <item nodeId="node-0xa36e440">
+  <item nodeId="node-0xa476c68">
     <command xml:space="preserve">e</command>
     <result xml:space="preserve">You can&apos;t go that way.
 
@@ -1776,10 +1915,10 @@ We are dead and in hell.
     <temporary score="0">YES</temporary>
     <annotation xml:space="preserve"></annotation>
     <children>
-      <child nodeId="node-0xa36e518"/>
+      <child nodeId="node-0xa476d40"/>
     </children>
   </item>
-  <item nodeId="node-0xa36e518">
+  <item nodeId="node-0xa476d40">
     <command xml:space="preserve">w</command>
     <result xml:space="preserve">Rolling Plain
 A bronze Djinn Bottle is laying on the ground.
@@ -1793,10 +1932,10 @@ Benito trudges along behind you...
     <temporary score="0">YES</temporary>
     <annotation xml:space="preserve"></annotation>
     <children>
-      <child nodeId="node-0xa36e5f0"/>
+      <child nodeId="node-0xa476e18"/>
     </children>
   </item>
-  <item nodeId="node-0xa36e5f0">
+  <item nodeId="node-0xa476e18">
     <command xml:space="preserve">ask about dude</command>
     <result xml:space="preserve">(addressing Benito)
 Benito does not respond.
@@ -1808,10 +1947,10 @@ Benito does not respond.
     <temporary score="0">YES</temporary>
     <annotation xml:space="preserve"></annotation>
     <children>
-      <child nodeId="node-0xa36e6c8"/>
+      <child nodeId="node-0xa476ef0"/>
     </children>
   </item>
-  <item nodeId="node-0xa36e6c8">
+  <item nodeId="node-0xa476ef0">
     <command xml:space="preserve">ask about hell</command>
     <result xml:space="preserve">We are dead and in hell.
 
@@ -1822,7 +1961,7 @@ Benito does not respond.
     <temporary score="0">YES</temporary>
     <annotation xml:space="preserve"></annotation>
   </item>
-  <item nodeId="node-0xa38a800">
+  <item nodeId="node-0xa493018">
     <command xml:space="preserve">plugh</command>
     <result xml:space="preserve">A hollow voice says &quot;Fool&quot;.
 
@@ -1833,10 +1972,10 @@ Benito does not respond.
     <temporary score="0">YES</temporary>
     <annotation xml:space="preserve"></annotation>
     <children>
-      <child nodeId="node-0xa38a8d8"/>
+      <child nodeId="node-0xa4930f0"/>
     </children>
   </item>
-  <item nodeId="node-0xa38a8d8">
+  <item nodeId="node-0xa4930f0">
     <command xml:space="preserve">xyzzy</command>
     <result xml:space="preserve">A hollow voice says &quot;Fool&quot;.
 
@@ -1847,10 +1986,10 @@ Benito does not respond.
     <temporary score="0">YES</temporary>
     <annotation xml:space="preserve"></annotation>
     <children>
-      <child nodeId="node-0xa38a9b0"/>
+      <child nodeId="node-0xa4931c8"/>
     </children>
   </item>
-  <item nodeId="node-0xa38a9b0">
+  <item nodeId="node-0xa4931c8">
     <command xml:space="preserve">dsfa</command>
     <result xml:space="preserve">That&apos;s not a verb I recognise.
 
@@ -1861,10 +2000,10 @@ Benito does not respond.
     <temporary score="0">YES</temporary>
     <annotation xml:space="preserve"></annotation>
     <children>
-      <child nodeId="node-0xa38aa88"/>
+      <child nodeId="node-0xa4932a0"/>
     </children>
   </item>
-  <item nodeId="node-0xa38aa88">
+  <item nodeId="node-0xa4932a0">
     <command xml:space="preserve">ask benito about hell</command>
     <result xml:space="preserve">Benito says, &quot;We are dead and in hell.&quot;
 
@@ -1875,10 +2014,10 @@ Benito does not respond.
     <temporary score="0">YES</temporary>
     <annotation xml:space="preserve"></annotation>
     <children>
-      <child nodeId="node-0xa38ab60"/>
+      <child nodeId="node-0xa493378"/>
     </children>
   </item>
-  <item nodeId="node-0xa38ab60">
+  <item nodeId="node-0xa493378">
     <command xml:space="preserve">kill benito</command>
     <result xml:space="preserve">Violence isn&apos;t the answer to this one.
 
@@ -1889,10 +2028,10 @@ Benito does not respond.
     <temporary score="0">YES</temporary>
     <annotation xml:space="preserve"></annotation>
     <children>
-      <child nodeId="node-0xa38ac38"/>
+      <child nodeId="node-0xa493450"/>
     </children>
   </item>
-  <item nodeId="node-0xa38ac38">
+  <item nodeId="node-0xa493450">
     <command xml:space="preserve">smell</command>
     <result xml:space="preserve">It smells fetid, with an acrid tinge, decay and sickly sweet perfume to cover the smells of death, orange blossoms mingled with hospital smells, but sickening all the same.
 
@@ -1903,7 +2042,7 @@ Benito does not respond.
     <temporary score="0">YES</temporary>
     <annotation xml:space="preserve"></annotation>
   </item>
-  <item nodeId="node-0xa38ad10">
+  <item nodeId="node-0xa493528">
     <command xml:space="preserve">take fat guy</command>
     <result xml:space="preserve">Benito resists your romantic notions...
 
@@ -1914,10 +2053,10 @@ Benito does not respond.
     <temporary score="0">YES</temporary>
     <annotation xml:space="preserve"></annotation>
     <children>
-      <child nodeId="node-0xa38ade8"/>
+      <child nodeId="node-0xa493600"/>
     </children>
   </item>
-  <item nodeId="node-0xa38ade8">
+  <item nodeId="node-0xa493600">
     <command xml:space="preserve">l</command>
     <result xml:space="preserve">Rolling Plain
 You are on a large grassy plain.  To the north you see a river and a wall, far in the distance.  To the east a large group of people seem to be chasing a kite.
@@ -1933,10 +2072,10 @@ You can also see Benito here.
     <temporary score="0">YES</temporary>
     <annotation xml:space="preserve"></annotation>
     <children>
-      <child nodeId="node-0xa38aec0"/>
+      <child nodeId="node-0xa4936d8"/>
     </children>
   </item>
-  <item nodeId="node-0xa38aec0">
+  <item nodeId="node-0xa4936d8">
     <command xml:space="preserve">e</command>
     <result xml:space="preserve">Banners
 In the distance, you can see hundreds of people chasing a banner.
@@ -1954,10 +2093,10 @@ Benito trudges along behind you...
     <temporary score="0">YES</temporary>
     <annotation xml:space="preserve"></annotation>
     <children>
-      <child nodeId="node-0xa399028"/>
+      <child nodeId="node-0xa4a1040"/>
     </children>
   </item>
-  <item nodeId="node-0xa399028">
+  <item nodeId="node-0xa4a1040">
     <command xml:space="preserve">take rock</command>
     <result xml:space="preserve">Benito resists your romantic notions...
 
@@ -1968,10 +2107,10 @@ Benito trudges along behind you...
     <temporary score="0">YES</temporary>
     <annotation xml:space="preserve"></annotation>
     <children>
-      <child nodeId="node-0xa399100"/>
+      <child nodeId="node-0xa4a1118"/>
     </children>
   </item>
-  <item nodeId="node-0xa399100">
+  <item nodeId="node-0xa4a1118">
     <command xml:space="preserve">take obese </command>
     <result xml:space="preserve">Benito resists your romantic notions...
 
@@ -1982,10 +2121,10 @@ Benito trudges along behind you...
     <temporary score="0">YES</temporary>
     <annotation xml:space="preserve"></annotation>
     <children>
-      <child nodeId="node-0xa3991d8"/>
+      <child nodeId="node-0xa4a11f0"/>
     </children>
   </item>
-  <item nodeId="node-0xa3991d8">
+  <item nodeId="node-0xa4a11f0">
     <command xml:space="preserve">take anything</command>
     <result xml:space="preserve">You can&apos;t see any such thing.
 
@@ -1996,10 +2135,10 @@ Benito trudges along behind you...
     <temporary score="0">YES</temporary>
     <annotation xml:space="preserve"></annotation>
     <children>
-      <child nodeId="node-0xa3992b0"/>
+      <child nodeId="node-0xa4a12c8"/>
     </children>
   </item>
-  <item nodeId="node-0xa3992b0">
+  <item nodeId="node-0xa4a12c8">
     <command xml:space="preserve">take benito</command>
     <result xml:space="preserve">Benito resists your romantic notions...
 
@@ -2010,10 +2149,10 @@ Benito trudges along behind you...
     <temporary score="0">YES</temporary>
     <annotation xml:space="preserve"></annotation>
     <children>
-      <child nodeId="node-0xa399388"/>
+      <child nodeId="node-0xa4a13a0"/>
     </children>
   </item>
-  <item nodeId="node-0xa399388">
+  <item nodeId="node-0xa4a13a0">
     <command xml:space="preserve">take orange</command>
     <result xml:space="preserve">You can&apos;t see any such thing.
 
@@ -2024,10 +2163,10 @@ Benito trudges along behind you...
     <temporary score="0">YES</temporary>
     <annotation xml:space="preserve"></annotation>
     <children>
-      <child nodeId="node-0xa399460"/>
+      <child nodeId="node-0xa4a1478"/>
     </children>
   </item>
-  <item nodeId="node-0xa399460">
+  <item nodeId="node-0xa4a1478">
     <command xml:space="preserve">take obese</command>
     <result xml:space="preserve">Benito resists your romantic notions...
 
@@ -2038,10 +2177,10 @@ Benito trudges along behind you...
     <temporary score="0">YES</temporary>
     <annotation xml:space="preserve"></annotation>
     <children>
-      <child nodeId="node-0xa399538"/>
+      <child nodeId="node-0xa4a1550"/>
     </children>
   </item>
-  <item nodeId="node-0xa399538">
+  <item nodeId="node-0xa4a1550">
     <command xml:space="preserve">l</command>
     <result xml:space="preserve">Banners
 In the distance, you can see hundreds of people chasing a banner.
@@ -2057,10 +2196,10 @@ You can also see Benito and a large rock here.
     <temporary score="0">YES</temporary>
     <annotation xml:space="preserve"></annotation>
     <children>
-      <child nodeId="node-0xa399610"/>
+      <child nodeId="node-0xa4a1628"/>
     </children>
   </item>
-  <item nodeId="node-0xa399610">
+  <item nodeId="node-0xa4a1628">
     <command xml:space="preserve">take woman</command>
     <result xml:space="preserve">Benito resists your romantic notions...
 
@@ -2071,7 +2210,7 @@ You can also see Benito and a large rock here.
     <temporary score="0">YES</temporary>
     <annotation xml:space="preserve"></annotation>
   </item>
-  <item nodeId="node-0xa3996e8">
+  <item nodeId="node-0xa4a1700">
     <command xml:space="preserve">examine large</command>
     <result xml:space="preserve">You can&apos;t see any such thing.
 
@@ -2082,10 +2221,10 @@ You can also see Benito and a large rock here.
     <temporary score="0">YES</temporary>
     <annotation xml:space="preserve"></annotation>
     <children>
-      <child nodeId="node-0xa3a6838"/>
+      <child nodeId="node-0xa4af038"/>
     </children>
   </item>
-  <item nodeId="node-0xa3a6838">
+  <item nodeId="node-0xa4af038">
     <command xml:space="preserve">examine fat man</command>
     <result xml:space="preserve">I only understood you as far as wanting to examine the fat guy.
 
@@ -2096,10 +2235,10 @@ You can also see Benito and a large rock here.
     <temporary score="0">YES</temporary>
     <annotation xml:space="preserve"></annotation>
     <children>
-      <child nodeId="node-0xa3a6910"/>
+      <child nodeId="node-0xa4af110"/>
     </children>
   </item>
-  <item nodeId="node-0xa3a6910">
+  <item nodeId="node-0xa4af110">
     <command xml:space="preserve">examine fat</command>
     <result xml:space="preserve">*** Run-time problem P11: Although Benito is allowed to have the property &quot;description&quot;, no value was ever given, so it can&apos;t now be used.
 
@@ -2112,7 +2251,7 @@ You ask the fat man who he is and he replies &quot;I am Benito, I rescued you fr
     <temporary score="0">YES</temporary>
     <annotation xml:space="preserve"></annotation>
   </item>
-  <item nodeId="node-0xa3a69e8">
+  <item nodeId="node-0xa4af1e8">
     <command xml:space="preserve">w</command>
     <result xml:space="preserve">You can&apos;t go that way.
 
@@ -2123,10 +2262,10 @@ You ask the fat man who he is and he replies &quot;I am Benito, I rescued you fr
     <temporary score="0">YES</temporary>
     <annotation xml:space="preserve"></annotation>
     <children>
-      <child nodeId="node-0xa3a6ac0"/>
+      <child nodeId="node-0xa4af2c0"/>
     </children>
   </item>
-  <item nodeId="node-0xa3a6ac0">
+  <item nodeId="node-0xa4af2c0">
     <command xml:space="preserve">e</command>
     <result xml:space="preserve">Banners
 In the distance, you can see hundreds of people chasing a banner.
@@ -2144,11 +2283,11 @@ fat guy trudges along behind you...
     <temporary score="0">YES</temporary>
     <annotation xml:space="preserve"></annotation>
     <children>
-      <child nodeId="node-0xa3a6b98"/>
-      <child nodeId="node-0xa3b5100"/>
+      <child nodeId="node-0xa4af398"/>
+      <child nodeId="node-0xa4bd0d8"/>
     </children>
   </item>
-  <item nodeId="node-0xa3a6b98">
+  <item nodeId="node-0xa4af398">
     <command xml:space="preserve">examine tree</command>
     <result xml:space="preserve">You see nothing special about the large tree.
 
@@ -2159,10 +2298,10 @@ fat guy trudges along behind you...
     <temporary score="0">YES</temporary>
     <annotation xml:space="preserve"></annotation>
     <children>
-      <child nodeId="node-0xa3a6c70"/>
+      <child nodeId="node-0xa4af470"/>
     </children>
   </item>
-  <item nodeId="node-0xa3a6c70">
+  <item nodeId="node-0xa4af470">
     <command xml:space="preserve">take tree</command>
     <result xml:space="preserve">Taken.
 
@@ -2173,10 +2312,10 @@ fat guy trudges along behind you...
     <temporary score="0">YES</temporary>
     <annotation xml:space="preserve"></annotation>
     <children>
-      <child nodeId="node-0xa3a6d48"/>
+      <child nodeId="node-0xa4af548"/>
     </children>
   </item>
-  <item nodeId="node-0xa3a6d48">
+  <item nodeId="node-0xa4af548">
     <command xml:space="preserve">invent</command>
     <result xml:space="preserve">That&apos;s not a verb I recognise.
 
@@ -2187,10 +2326,10 @@ fat guy trudges along behind you...
     <temporary score="0">YES</temporary>
     <annotation xml:space="preserve"></annotation>
     <children>
-      <child nodeId="node-0xa3a6e20"/>
+      <child nodeId="node-0xa4af620"/>
     </children>
   </item>
-  <item nodeId="node-0xa3a6e20">
+  <item nodeId="node-0xa4af620">
     <command xml:space="preserve">inventory</command>
     <result xml:space="preserve">You are carrying:
   a large tree
@@ -2202,10 +2341,10 @@ fat guy trudges along behind you...
     <temporary score="0">YES</temporary>
     <annotation xml:space="preserve"></annotation>
     <children>
-      <child nodeId="node-0xa3a6ef8"/>
+      <child nodeId="node-0xa4af6f8"/>
     </children>
   </item>
-  <item nodeId="node-0xa3a6ef8">
+  <item nodeId="node-0xa4af6f8">
     <command xml:space="preserve">take benito</command>
     <result xml:space="preserve">You can&apos;t see any such thing.
 
@@ -2216,10 +2355,10 @@ fat guy trudges along behind you...
     <temporary score="0">YES</temporary>
     <annotation xml:space="preserve"></annotation>
     <children>
-      <child nodeId="node-0xa3b5028"/>
+      <child nodeId="node-0xa4bd000"/>
     </children>
   </item>
-  <item nodeId="node-0xa3b5028">
+  <item nodeId="node-0xa4bd000">
     <command xml:space="preserve">take fat guy</command>
     <result xml:space="preserve">fat guy resists your romantic notions...
 
@@ -2230,7 +2369,7 @@ fat guy trudges along behind you...
     <temporary score="0">YES</temporary>
     <annotation xml:space="preserve"></annotation>
   </item>
-  <item nodeId="node-0xa3b5100">
+  <item nodeId="node-0xa4bd0d8">
     <command xml:space="preserve">w</command>
     <result xml:space="preserve">You ask the fat man who he is and he replies &quot;I am Benito, I rescued you from the bottle.
 
@@ -2248,10 +2387,10 @@ Benito trudges along behind you...
     <temporary score="0">YES</temporary>
     <annotation xml:space="preserve"></annotation>
     <children>
-      <child nodeId="node-0xa3b51d8"/>
+      <child nodeId="node-0xa4bd1b0"/>
     </children>
   </item>
-  <item nodeId="node-0xa3b51d8">
+  <item nodeId="node-0xa4bd1b0">
     <command xml:space="preserve">w</command>
     <result xml:space="preserve">You can&apos;t go that way.
 
@@ -2262,10 +2401,10 @@ Benito trudges along behind you...
     <temporary score="0">YES</temporary>
     <annotation xml:space="preserve"></annotation>
     <children>
-      <child nodeId="node-0xa3b52b0"/>
+      <child nodeId="node-0xa4bd288"/>
     </children>
   </item>
-  <item nodeId="node-0xa3b52b0">
+  <item nodeId="node-0xa4bd288">
     <command xml:space="preserve">e</command>
     <result xml:space="preserve">Banners
 A hugely obese woman is lying against the rock.
@@ -2281,7 +2420,7 @@ Benito trudges along behind you...
     <temporary score="0">YES</temporary>
     <annotation xml:space="preserve"></annotation>
   </item>
-  <item nodeId="node-0xa3b5388">
+  <item nodeId="node-0xa4bd360">
     <command xml:space="preserve">e</command>
     <result xml:space="preserve">Banners
 In the distance, you can see hundreds of people chasing a banner.
@@ -2299,10 +2438,10 @@ Benito trudges along behind you...
     <temporary score="0">YES</temporary>
     <annotation xml:space="preserve"></annotation>
     <children>
-      <child nodeId="node-0xa3b5460"/>
+      <child nodeId="node-0xa4bd438"/>
     </children>
   </item>
-  <item nodeId="node-0xa3b5460">
+  <item nodeId="node-0xa4bd438">
     <command xml:space="preserve">take obese</command>
     <result xml:space="preserve">fat guy resists your romantic notions...
 
@@ -2313,10 +2452,10 @@ Benito trudges along behind you...
     <temporary score="0">YES</temporary>
     <annotation xml:space="preserve"></annotation>
     <children>
-      <child nodeId="node-0xa3b5538"/>
+      <child nodeId="node-0xa4bd510"/>
     </children>
   </item>
-  <item nodeId="node-0xa3b5538">
+  <item nodeId="node-0xa4bd510">
     <command xml:space="preserve">take woman</command>
     <result xml:space="preserve">You can&apos;t see any such thing.
 
@@ -2327,10 +2466,10 @@ Benito trudges along behind you...
     <temporary score="0">YES</temporary>
     <annotation xml:space="preserve"></annotation>
     <children>
-      <child nodeId="node-0xa3b5610"/>
+      <child nodeId="node-0xa4bd5e8"/>
     </children>
   </item>
-  <item nodeId="node-0xa3b5610">
+  <item nodeId="node-0xa4bd5e8">
     <command xml:space="preserve">take man</command>
     <result xml:space="preserve">You can&apos;t see any such thing.
 
@@ -2341,10 +2480,10 @@ Benito trudges along behind you...
     <temporary score="0">YES</temporary>
     <annotation xml:space="preserve"></annotation>
     <children>
-      <child nodeId="node-0xa3b56e8"/>
+      <child nodeId="node-0xa4bd6c0"/>
     </children>
   </item>
-  <item nodeId="node-0xa3b56e8">
+  <item nodeId="node-0xa4bd6c0">
     <command xml:space="preserve">examine  benito</command>
     <result xml:space="preserve">You can&apos;t see any such thing.
 
@@ -2355,10 +2494,10 @@ Benito trudges along behind you...
     <temporary score="0">YES</temporary>
     <annotation xml:space="preserve"></annotation>
     <children>
-      <child nodeId="node-0xa329008"/>
+      <child nodeId="node-0xa42b818"/>
     </children>
   </item>
-  <item nodeId="node-0xa329008">
+  <item nodeId="node-0xa42b818">
     <command xml:space="preserve">examine benito</command>
     <result xml:space="preserve">You can&apos;t see any such thing.
 
@@ -2369,10 +2508,10 @@ Benito trudges along behind you...
     <temporary score="0">YES</temporary>
     <annotation xml:space="preserve"></annotation>
     <children>
-      <child nodeId="node-0xa3290e0"/>
+      <child nodeId="node-0xa42b8f0"/>
     </children>
   </item>
-  <item nodeId="node-0xa3290e0">
+  <item nodeId="node-0xa42b8f0">
     <command xml:space="preserve">examine fat guy</command>
     <result xml:space="preserve">You ask the fat man who he is and he replies &quot;I am Benito, I rescued you from the bottle.&quot;
 
@@ -2383,10 +2522,10 @@ Benito trudges along behind you...
     <temporary score="0">YES</temporary>
     <annotation xml:space="preserve"></annotation>
     <children>
-      <child nodeId="node-0xa3291b8"/>
+      <child nodeId="node-0xa42b9c8"/>
     </children>
   </item>
-  <item nodeId="node-0xa3291b8">
+  <item nodeId="node-0xa42b9c8">
     <command xml:space="preserve">take woman</command>
     <result xml:space="preserve">You can&apos;t see any such thing.
 
@@ -2397,10 +2536,10 @@ Benito trudges along behind you...
     <temporary score="0">YES</temporary>
     <annotation xml:space="preserve"></annotation>
     <children>
-      <child nodeId="node-0xa329290"/>
+      <child nodeId="node-0xa42baa0"/>
     </children>
   </item>
-  <item nodeId="node-0xa329290">
+  <item nodeId="node-0xa42baa0">
     <command xml:space="preserve">l</command>
     <result xml:space="preserve">Banners
 In the distance, you can see hundreds of people chasing a banner.
@@ -2416,10 +2555,10 @@ You can also see Benito and a large rock here.
     <temporary score="0">YES</temporary>
     <annotation xml:space="preserve"></annotation>
     <children>
-      <child nodeId="node-0xa329368"/>
+      <child nodeId="node-0xa42bb78"/>
     </children>
   </item>
-  <item nodeId="node-0xa329368">
+  <item nodeId="node-0xa42bb78">
     <command xml:space="preserve">look</command>
     <result xml:space="preserve">Banners
 In the distance, you can see hundreds of people chasing a banner.
@@ -2435,10 +2574,10 @@ You can also see Benito and a large rock here.
     <temporary score="0">YES</temporary>
     <annotation xml:space="preserve"></annotation>
     <children>
-      <child nodeId="node-0xa329440"/>
+      <child nodeId="node-0xa42bc50"/>
     </children>
   </item>
-  <item nodeId="node-0xa329440">
+  <item nodeId="node-0xa42bc50">
     <command xml:space="preserve">take woman</command>
     <result xml:space="preserve">You can&apos;t see any such thing.
 
@@ -2449,10 +2588,10 @@ You can also see Benito and a large rock here.
     <temporary score="0">YES</temporary>
     <annotation xml:space="preserve"></annotation>
     <children>
-      <child nodeId="node-0xa329518"/>
+      <child nodeId="node-0xa42bd28"/>
     </children>
   </item>
-  <item nodeId="node-0xa329518">
+  <item nodeId="node-0xa42bd28">
     <command xml:space="preserve">take obese</command>
     <result xml:space="preserve">Benito resists your romantic notions...
 
@@ -2463,10 +2602,10 @@ You can also see Benito and a large rock here.
     <temporary score="0">YES</temporary>
     <annotation xml:space="preserve"></annotation>
     <children>
-      <child nodeId="node-0xa3295f0"/>
+      <child nodeId="node-0xa42be00"/>
     </children>
   </item>
-  <item nodeId="node-0xa3295f0">
+  <item nodeId="node-0xa42be00">
     <command xml:space="preserve">examine woman</command>
     <result xml:space="preserve">You can&apos;t see any such thing.
 
@@ -2477,10 +2616,10 @@ You can also see Benito and a large rock here.
     <temporary score="0">YES</temporary>
     <annotation xml:space="preserve"></annotation>
     <children>
-      <child nodeId="node-0xa3296c8"/>
+      <child nodeId="node-0xa42bed8"/>
     </children>
   </item>
-  <item nodeId="node-0xa3296c8">
+  <item nodeId="node-0xa42bed8">
     <command xml:space="preserve">examine obese</command>
     <result xml:space="preserve">You see nothing special about the obese lady.
 
@@ -2491,10 +2630,10 @@ You can also see Benito and a large rock here.
     <temporary score="0">YES</temporary>
     <annotation xml:space="preserve"></annotation>
     <children>
-      <child nodeId="node-0xa3e5820"/>
+      <child nodeId="node-0xa4ed828"/>
     </children>
   </item>
-  <item nodeId="node-0xa3e5820">
+  <item nodeId="node-0xa4ed828">
     <command xml:space="preserve">take obese</command>
     <result xml:space="preserve">Benito resists your romantic notions...
 
@@ -2505,10 +2644,10 @@ You can also see Benito and a large rock here.
     <temporary score="0">YES</temporary>
     <annotation xml:space="preserve"></annotation>
     <children>
-      <child nodeId="node-0xa3e58f8"/>
+      <child nodeId="node-0xa4ed900"/>
     </children>
   </item>
-  <item nodeId="node-0xa3e58f8">
+  <item nodeId="node-0xa4ed900">
     <command xml:space="preserve">take lady</command>
     <result xml:space="preserve">Benito resists your romantic notions...
 
@@ -2519,7 +2658,7 @@ You can also see Benito and a large rock here.
     <temporary score="0">YES</temporary>
     <annotation xml:space="preserve"></annotation>
   </item>
-  <item nodeId="node-0xa3e59d0">
+  <item nodeId="node-0xa4ed9d8">
     <command xml:space="preserve">talk to fat guy</command>
     <result xml:space="preserve">You say hello to the fat guy.
 
@@ -2532,10 +2671,10 @@ You have nothing specific in mind to discuss with the fat guy right now.
     <temporary score="0">YES</temporary>
     <annotation xml:space="preserve"></annotation>
     <children>
-      <child nodeId="node-0xa3e5aa8"/>
+      <child nodeId="node-0xa4edab0"/>
     </children>
   </item>
-  <item nodeId="node-0xa3e5aa8">
+  <item nodeId="node-0xa4edab0">
     <command xml:space="preserve">talk to fat</command>
     <result xml:space="preserve">You are already talking to the fat guy.
 
@@ -2546,10 +2685,10 @@ You have nothing specific in mind to discuss with the fat guy right now.
     <temporary score="0">YES</temporary>
     <annotation xml:space="preserve"></annotation>
     <children>
-      <child nodeId="node-0xa3e5b80"/>
+      <child nodeId="node-0xa4edb88"/>
     </children>
   </item>
-  <item nodeId="node-0xa3e5b80">
+  <item nodeId="node-0xa4edb88">
     <command xml:space="preserve">examine fat</command>
     <result xml:space="preserve">You ask the fat man who he is and he replies &quot;I am Benito, I rescued you from the bottle.&quot;
 
@@ -2560,10 +2699,10 @@ You have nothing specific in mind to discuss with the fat guy right now.
     <temporary score="0">YES</temporary>
     <annotation xml:space="preserve"></annotation>
     <children>
-      <child nodeId="node-0xa3e5c58"/>
+      <child nodeId="node-0xa4edc60"/>
     </children>
   </item>
-  <item nodeId="node-0xa3e5c58">
+  <item nodeId="node-0xa4edc60">
     <command xml:space="preserve">l</command>
     <result xml:space="preserve">Rolling Plain
 You are on a large grassy plain.  To the north you see a river and a wall, far in the distance.  To the east a large group of people seem to be chasing a kite.
@@ -2579,10 +2718,10 @@ You can also see Benito here.
     <temporary score="0">YES</temporary>
     <annotation xml:space="preserve"></annotation>
     <children>
-      <child nodeId="node-0xa3e5d30"/>
+      <child nodeId="node-0xa4edd38"/>
     </children>
   </item>
-  <item nodeId="node-0xa3e5d30">
+  <item nodeId="node-0xa4edd38">
     <command xml:space="preserve">e</command>
     <result xml:space="preserve">Banners
 In the distance, you can see hundreds of people chasing a banner.
@@ -2600,10 +2739,10 @@ Benito trudges along behind you...
     <temporary score="0">YES</temporary>
     <annotation xml:space="preserve"></annotation>
     <children>
-      <child nodeId="node-0xa3e5e08"/>
+      <child nodeId="node-0xa4ede10"/>
     </children>
   </item>
-  <item nodeId="node-0xa3e5e08">
+  <item nodeId="node-0xa4ede10">
     <command xml:space="preserve">take obese</command>
     <result xml:space="preserve">I don&apos;t suppose the obese lady would care for that.
 
@@ -2614,10 +2753,10 @@ Benito trudges along behind you...
     <temporary score="0">YES</temporary>
     <annotation xml:space="preserve"></annotation>
     <children>
-      <child nodeId="node-0xa3e5ee0"/>
+      <child nodeId="node-0xa4edee8"/>
     </children>
   </item>
-  <item nodeId="node-0xa3e5ee0">
+  <item nodeId="node-0xa4edee8">
     <command xml:space="preserve">take benito</command>
     <result xml:space="preserve">Benito resists your romantic notions...
 
@@ -2628,10 +2767,10 @@ Benito trudges along behind you...
     <temporary score="0">YES</temporary>
     <annotation xml:space="preserve"></annotation>
     <children>
-      <child nodeId="node-0xa3f3028"/>
+      <child nodeId="node-0xa4fb818"/>
     </children>
   </item>
-  <item nodeId="node-0xa3f3028">
+  <item nodeId="node-0xa4fb818">
     <command xml:space="preserve">talk to obese</command>
     <result xml:space="preserve">You say hello to the obese lady.
 
@@ -2644,7 +2783,7 @@ You have nothing specific in mind to discuss with the obese lady right now.
     <temporary score="0">YES</temporary>
     <annotation xml:space="preserve"></annotation>
   </item>
-  <item nodeId="node-0xa3f3100">
+  <item nodeId="node-0xa4fb8f0">
     <command xml:space="preserve">pray</command>
     <result xml:space="preserve">&gt;</result>
     <commentary xml:space="preserve"></commentary>
@@ -2653,11 +2792,11 @@ You have nothing specific in mind to discuss with the obese lady right now.
     <temporary score="0">YES</temporary>
     <annotation xml:space="preserve"></annotation>
     <children>
-      <child nodeId="node-0xa3f31d8"/>
-      <child nodeId="node-0xa3f3388"/>
+      <child nodeId="node-0xa4fb9c8"/>
+      <child nodeId="node-0xa4fbb78"/>
     </children>
   </item>
-  <item nodeId="node-0xa3f31d8">
+  <item nodeId="node-0xa4fb9c8">
     <command xml:space="preserve">pray</command>
     <result xml:space="preserve">You ask the fat man who he is and he replies &quot;I am Benito, I rescued you from the bottle.
 
@@ -2670,10 +2809,10 @@ You have nothing specific in mind to discuss with the obese lady right now.
     <temporary score="0">YES</temporary>
     <annotation xml:space="preserve"></annotation>
     <children>
-      <child nodeId="node-0xa3f32b0"/>
+      <child nodeId="node-0xa4fbaa0"/>
     </children>
   </item>
-  <item nodeId="node-0xa3f32b0">
+  <item nodeId="node-0xa4fbaa0">
     <command xml:space="preserve">pray</command>
     <result xml:space="preserve">You ask the fat man who he is and he replies &quot;I am Benito, I rescued you from the bottle.
 
@@ -2686,7 +2825,7 @@ You have nothing specific in mind to discuss with the obese lady right now.
     <temporary score="0">YES</temporary>
     <annotation xml:space="preserve"></annotation>
   </item>
-  <item nodeId="node-0xa3f3388">
+  <item nodeId="node-0xa4fbb78">
     <command xml:space="preserve">l</command>
     <result xml:space="preserve">Rolling Plain
 You are on a large grassy plain.  To the north you see a river and a wall, far in the distance.  To the east a large group of people seem to be chasing a kite.
@@ -2702,7 +2841,7 @@ You can also see Benito here.
     <temporary score="0">YES</temporary>
     <annotation xml:space="preserve"></annotation>
   </item>
-  <item nodeId="node-0xa3f3460">
+  <item nodeId="node-0xa4fbc50">
     <command xml:space="preserve">l</command>
     <result xml:space="preserve">Rolling Plain
 You are on a large grassy plain.  To the north you see a river and a wall, far in the distance.  To the east a large group of people seem to be chasing a banner.
@@ -2718,10 +2857,10 @@ You can also see Benito and a large rock here.
     <temporary score="0">YES</temporary>
     <annotation xml:space="preserve"></annotation>
     <children>
-      <child nodeId="node-0xa3f3538"/>
+      <child nodeId="node-0xa4fbd28"/>
     </children>
   </item>
-  <item nodeId="node-0xa3f3538">
+  <item nodeId="node-0xa4fbd28">
     <command xml:space="preserve">w</command>
     <result xml:space="preserve">You can&apos;t go that way.
 
@@ -2732,10 +2871,10 @@ You can also see Benito and a large rock here.
     <temporary score="0">YES</temporary>
     <annotation xml:space="preserve"></annotation>
     <children>
-      <child nodeId="node-0xa3f3610"/>
+      <child nodeId="node-0xa4fbe00"/>
     </children>
   </item>
-  <item nodeId="node-0xa3f3610">
+  <item nodeId="node-0xa4fbe00">
     <command xml:space="preserve">e</command>
     <result xml:space="preserve">Banners
 In the distance, you can see hundreds of people chasing a banner.
@@ -2753,10 +2892,10 @@ Benito trudges along behind you...
     <temporary score="0">YES</temporary>
     <annotation xml:space="preserve"></annotation>
     <children>
-      <child nodeId="node-0xa3f36e8"/>
+      <child nodeId="node-0xa4fbed8"/>
     </children>
   </item>
-  <item nodeId="node-0xa3f36e8">
+  <item nodeId="node-0xa4fbed8">
     <command xml:space="preserve">l</command>
     <result xml:space="preserve">Banners
 In the distance, you can see hundreds of people chasing a banner.
@@ -2772,7 +2911,210 @@ You can also see Benito and a large rock here.
     <temporary score="0">YES</temporary>
     <annotation xml:space="preserve"></annotation>
   </item>
-  <item nodeId="node-0xa410018">
+  <item nodeId="node-0xa518010">
+    <command xml:space="preserve">examine djinn</command>
+    <result xml:space="preserve">It is a blue glass bottle.   It looks like Barbara Eden should pop out of it, in a puff of pink smoke.  Instead we got you, go figure.
+
+&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>NO</played>
+    <changed>YES</changed>
+    <temporary score="0">YES</temporary>
+    <annotation xml:space="preserve"></annotation>
+  </item>
+  <item nodeId="node-0xa5180e8">
+    <command xml:space="preserve">ask benito about escape</command>
+    <result xml:space="preserve">Benito says, &quot;We must descend deeper and deeper into hell, at the center, is the way out!&quot;
+
+&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>NO</played>
+    <changed>YES</changed>
+    <temporary score="0">YES</temporary>
+    <annotation xml:space="preserve"></annotation>
+    <children>
+      <child nodeId="node-0xa5181c0"/>
+    </children>
+  </item>
+  <item nodeId="node-0xa5181c0">
+    <command xml:space="preserve">say hello to benito</command>
+    <result xml:space="preserve">You are already talking to Benito.
+
+&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>NO</played>
+    <changed>YES</changed>
+    <temporary score="0">YES</temporary>
+    <annotation xml:space="preserve"></annotation>
+    <children>
+      <child nodeId="node-0xa518298"/>
+    </children>
+  </item>
+  <item nodeId="node-0xa518298">
+    <command xml:space="preserve">say goodbye to benito</command>
+    <result xml:space="preserve">You say goodbye to Benito.
+
+&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>NO</played>
+    <changed>YES</changed>
+    <temporary score="0">YES</temporary>
+    <annotation xml:space="preserve"></annotation>
+    <children>
+      <child nodeId="node-0xa518370"/>
+    </children>
+  </item>
+  <item nodeId="node-0xa518370">
+    <command xml:space="preserve">say hello to benito</command>
+    <result xml:space="preserve">You say hello to Benito.
+
+You have nothing specific in mind to discuss with Benito right now.
+
+&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>NO</played>
+    <changed>YES</changed>
+    <temporary score="0">YES</temporary>
+    <annotation xml:space="preserve"></annotation>
+    <children>
+      <child nodeId="node-0xa518448"/>
+    </children>
+  </item>
+  <item nodeId="node-0xa518448">
+    <command xml:space="preserve">ask benito about fucking</command>
+    <result xml:space="preserve">Benito does not respond.
+
+&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>NO</played>
+    <changed>YES</changed>
+    <temporary score="0">YES</temporary>
+    <annotation xml:space="preserve"></annotation>
+    <children>
+      <child nodeId="node-0xa518520"/>
+    </children>
+  </item>
+  <item nodeId="node-0xa518520">
+    <command xml:space="preserve">ask benito about bottle</command>
+    <result xml:space="preserve">Benito does not respond.
+
+&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>NO</played>
+    <changed>YES</changed>
+    <temporary score="0">YES</temporary>
+    <annotation xml:space="preserve"></annotation>
+  </item>
+  <item nodeId="node-0xa5185f8">
+    <command xml:space="preserve">tell benito fuck you</command>
+    <result xml:space="preserve">Benito does not respond.
+
+&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>NO</played>
+    <changed>YES</changed>
+    <temporary score="0">YES</temporary>
+    <annotation xml:space="preserve"></annotation>
+    <children>
+      <child nodeId="node-0xa5186d0"/>
+    </children>
+  </item>
+  <item nodeId="node-0xa5186d0">
+    <command xml:space="preserve">tell benito name</command>
+    <result xml:space="preserve">Benito does not respond.
+
+&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>NO</played>
+    <changed>YES</changed>
+    <temporary score="0">YES</temporary>
+    <annotation xml:space="preserve"></annotation>
+    <children>
+      <child nodeId="node-0xa526830"/>
+    </children>
+  </item>
+  <item nodeId="node-0xa526830">
+    <command xml:space="preserve">w</command>
+    <result xml:space="preserve">You can&apos;t go that way.
+
+&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>NO</played>
+    <changed>YES</changed>
+    <temporary score="0">YES</temporary>
+    <annotation xml:space="preserve"></annotation>
+    <children>
+      <child nodeId="node-0xa526908"/>
+    </children>
+  </item>
+  <item nodeId="node-0xa526908">
+    <command xml:space="preserve">e</command>
+    <result xml:space="preserve">
+Banners
+In the distance, you can see hundreds of people chasing a banner.
+
+A hugely obese woman is lying against the rock... a pink mound with hair trailing down one side. Five-hundred-odd pounds of woman sitting cross-legged in stinking mud. A swarm of gnats hums around her. She doesn&apos;t bother to swat them.
+
+You can also see a large rock here.
+
+Benito trudges along behind you...
+
+&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>NO</played>
+    <changed>YES</changed>
+    <temporary score="0">YES</temporary>
+    <annotation xml:space="preserve"></annotation>
+  </item>
+  <item nodeId="node-0xaf81800">
+    <command xml:space="preserve">tell benito my name is fucker</command>
+    <result xml:space="preserve">Benito does not respond.
+
+&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>NO</played>
+    <changed>YES</changed>
+    <temporary score="0">YES</temporary>
+    <annotation xml:space="preserve"></annotation>
+  </item>
+  <item nodeId="node-0xaf818d8">
+    <command xml:space="preserve">tell benito about name</command>
+    <result xml:space="preserve">That&apos;s a nice name
+&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>NO</played>
+    <changed>YES</changed>
+    <temporary score="0">YES</temporary>
+    <annotation xml:space="preserve"></annotation>
+    <children>
+      <child nodeId="node-0xaf819b0"/>
+    </children>
+  </item>
+  <item nodeId="node-0xaf819b0">
+    <command xml:space="preserve">tell benito about name is mark</command>
+    <result xml:space="preserve">Benito does not respond.
+
+&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>NO</played>
+    <changed>YES</changed>
+    <temporary score="0">YES</temporary>
+    <annotation xml:space="preserve"></annotation>
+    <children>
+      <child nodeId="node-0xaf81a88"/>
+    </children>
+  </item>
+  <item nodeId="node-0xaf81a88">
+    <command xml:space="preserve">tell benito about name</command>
+    <result xml:space="preserve">That&apos;s a nice name
+&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>NO</played>
+    <changed>YES</changed>
+    <temporary score="0">YES</temporary>
+    <annotation xml:space="preserve"></annotation>
+  </item>
+  <item nodeId="node-0xa5269e0">
     <command xml:space="preserve">praay</command>
     <result xml:space="preserve">That&apos;s not a verb I recognise.
 
@@ -2783,10 +3125,10 @@ You can also see Benito and a large rock here.
     <temporary score="0">YES</temporary>
     <annotation xml:space="preserve"></annotation>
     <children>
-      <child nodeId="node-0xa4100f0"/>
+      <child nodeId="node-0xa526ab8"/>
     </children>
   </item>
-  <item nodeId="node-0xa4100f0">
+  <item nodeId="node-0xa526ab8">
     <command xml:space="preserve">pray</command>
     <result xml:space="preserve">You suddenly feel like you exist again... and look around you...
 
@@ -2802,7 +3144,7 @@ You can see a Djinn bottle (closed) and Benito here.
     <temporary score="0">YES</temporary>
     <annotation xml:space="preserve"></annotation>
   </item>
-  <item nodeId="node-0xa4101c8">
+  <item nodeId="node-0xa526b90">
     <command xml:space="preserve">north</command>
     <result xml:space="preserve">You can move, or rather you can move?  There is no place to go!
 
@@ -2813,10 +3155,10 @@ You can see a Djinn bottle (closed) and Benito here.
     <temporary score="0">YES</temporary>
     <annotation xml:space="preserve"></annotation>
     <children>
-      <child nodeId="node-0xa4102a0"/>
+      <child nodeId="node-0xa526c68"/>
     </children>
   </item>
-  <item nodeId="node-0xa4102a0">
+  <item nodeId="node-0xa526c68">
     <command xml:space="preserve">look</command>
     <result xml:space="preserve">Bronze
 All you can see is a featureless bronze nothingness.  You can&apos;t even see... yourself.
@@ -2828,10 +3170,10 @@ All you can see is a featureless bronze nothingness.  You can&apos;t even see...
     <temporary score="0">YES</temporary>
     <annotation xml:space="preserve"></annotation>
     <children>
-      <child nodeId="node-0xa410378"/>
+      <child nodeId="node-0xa526d40"/>
     </children>
   </item>
-  <item nodeId="node-0xa410378">
+  <item nodeId="node-0xa526d40">
     <command xml:space="preserve">shout</command>
     <result xml:space="preserve">You shout, &quot;for the love of God, get me out of here!&quot;  You suddenly feel like you exist again... and look around you...
 
@@ -2849,10 +3191,10 @@ You can also see a heavyset man here.
     <temporary score="0">YES</temporary>
     <annotation xml:space="preserve"></annotation>
     <children>
-      <child nodeId="node-0xa410450"/>
+      <child nodeId="node-0xa526e18"/>
     </children>
   </item>
-  <item nodeId="node-0xa410450">
+  <item nodeId="node-0xa526e18">
     <command xml:space="preserve">open bottle</command>
     <result xml:space="preserve">That&apos;s not something you can open.
 
@@ -2863,10 +3205,10 @@ You can also see a heavyset man here.
     <temporary score="0">YES</temporary>
     <annotation xml:space="preserve"></annotation>
     <children>
-      <child nodeId="node-0xa410528"/>
+      <child nodeId="node-0xa526ef0"/>
     </children>
   </item>
-  <item nodeId="node-0xa410528">
+  <item nodeId="node-0xa526ef0">
     <command xml:space="preserve">take all</command>
     <result xml:space="preserve">Djinn bottle: Taken.
 heavyset man: Taken.
@@ -2879,10 +3221,10 @@ sky: That&apos;s hardly portable.
     <temporary score="0">YES</temporary>
     <annotation xml:space="preserve"></annotation>
     <children>
-      <child nodeId="node-0xa410600"/>
+      <child nodeId="node-0xa534000"/>
     </children>
   </item>
-  <item nodeId="node-0xa410600">
+  <item nodeId="node-0xa534000">
     <command xml:space="preserve">inventory</command>
     <result xml:space="preserve">You are carrying:
   a heavyset man
@@ -2895,10 +3237,10 @@ sky: That&apos;s hardly portable.
     <temporary score="0">YES</temporary>
     <annotation xml:space="preserve"></annotation>
     <children>
-      <child nodeId="node-0xa4106d8"/>
+      <child nodeId="node-0xa5340d8"/>
     </children>
   </item>
-  <item nodeId="node-0xa4106d8">
+  <item nodeId="node-0xa5340d8">
     <command xml:space="preserve">examine man</command>
     <result xml:space="preserve">You ask the heavyset man who he is and he replies &quot;I am Benito, I rescued you from the bottle.&quot;
 
@@ -2909,10 +3251,10 @@ sky: That&apos;s hardly portable.
     <temporary score="0">YES</temporary>
     <annotation xml:space="preserve"></annotation>
     <children>
-      <child nodeId="node-0xa41d830"/>
+      <child nodeId="node-0xa5341b0"/>
     </children>
   </item>
-  <item nodeId="node-0xa41d830">
+  <item nodeId="node-0xa5341b0">
     <command xml:space="preserve">l</command>
     <result xml:space="preserve">Rolling Plain
 You are on a large grassy plain.  To the north you see a river and a wall, far in the distance.  To the east a large group of people seem to be chasing a kite.
@@ -2924,10 +3266,10 @@ You are on a large grassy plain.  To the north you see a river and a wall, far i
     <temporary score="0">YES</temporary>
     <annotation xml:space="preserve"></annotation>
     <children>
-      <child nodeId="node-0xa41d908"/>
+      <child nodeId="node-0xa534288"/>
     </children>
   </item>
-  <item nodeId="node-0xa41d908">
+  <item nodeId="node-0xa534288">
     <command xml:space="preserve">north</command>
     <result xml:space="preserve">You can&apos;t go that way.
 
@@ -2938,10 +3280,10 @@ You are on a large grassy plain.  To the north you see a river and a wall, far i
     <temporary score="0">YES</temporary>
     <annotation xml:space="preserve"></annotation>
     <children>
-      <child nodeId="node-0xa41d9e0"/>
+      <child nodeId="node-0xa534360"/>
     </children>
   </item>
-  <item nodeId="node-0xa41d9e0">
+  <item nodeId="node-0xa534360">
     <command xml:space="preserve">east</command>
     <result xml:space="preserve">You can&apos;t go that way.
 
@@ -2952,10 +3294,10 @@ You are on a large grassy plain.  To the north you see a river and a wall, far i
     <temporary score="0">YES</temporary>
     <annotation xml:space="preserve"></annotation>
     <children>
-      <child nodeId="node-0xa41dab8"/>
+      <child nodeId="node-0xa534438"/>
     </children>
   </item>
-  <item nodeId="node-0xa41dab8">
+  <item nodeId="node-0xa534438">
     <command xml:space="preserve">look at sky</command>
     <result xml:space="preserve">The sky is cold grey.
 
@@ -2966,7 +3308,7 @@ You are on a large grassy plain.  To the north you see a river and a wall, far i
     <temporary score="0">YES</temporary>
     <annotation xml:space="preserve"></annotation>
   </item>
-  <item nodeId="node-0xa41db90">
+  <item nodeId="node-0xa534510">
     <command xml:space="preserve">yell</command>
     <result xml:space="preserve">You shout, &quot;For the love of God, get me out of here!&quot;  You suddenly feel like you exist again... and look around you...
 
@@ -2984,10 +3326,10 @@ A fat man is here.
     <temporary score="0">YES</temporary>
     <annotation xml:space="preserve"></annotation>
     <children>
-      <child nodeId="node-0xa41dc68"/>
+      <child nodeId="node-0xa5345e8"/>
     </children>
   </item>
-  <item nodeId="node-0xa41dc68">
+  <item nodeId="node-0xa5345e8">
     <command xml:space="preserve">examine fat</command>
     <result xml:space="preserve">You ask the fat man who he is and he replies &quot;I am Benito, I rescued you from the bottle.&quot;
 
@@ -2998,10 +3340,10 @@ A fat man is here.
     <temporary score="0">YES</temporary>
     <annotation xml:space="preserve"></annotation>
     <children>
-      <child nodeId="node-0xa41dd40"/>
+      <child nodeId="node-0xa5346c0"/>
     </children>
   </item>
-  <item nodeId="node-0xa41dd40">
+  <item nodeId="node-0xa5346c0">
     <command xml:space="preserve">l</command>
     <result xml:space="preserve">Rolling Plain
 You are on a large grassy plain.  To the north you see a river and a wall, far in the distance.  To the east a large group of people seem to be chasing a kite.
@@ -3017,10 +3359,10 @@ Benito is here.
     <temporary score="0">YES</temporary>
     <annotation xml:space="preserve"></annotation>
     <children>
-      <child nodeId="node-0xa41de18"/>
+      <child nodeId="node-0xa543000"/>
     </children>
   </item>
-  <item nodeId="node-0xa41de18">
+  <item nodeId="node-0xa543000">
     <command xml:space="preserve">take all</command>
     <result xml:space="preserve">Djinn bottle: Taken.
 Benito: Benito resists your romantic notions...
@@ -3033,10 +3375,10 @@ sky: That&apos;s hardly portable.
     <temporary score="0">YES</temporary>
     <annotation xml:space="preserve"></annotation>
     <children>
-      <child nodeId="node-0xa41def0"/>
+      <child nodeId="node-0xa5430d8"/>
     </children>
   </item>
-  <item nodeId="node-0xa41def0">
+  <item nodeId="node-0xa5430d8">
     <command xml:space="preserve">w</command>
     <result xml:space="preserve">You can&apos;t go that way.
 
@@ -3047,10 +3389,10 @@ sky: That&apos;s hardly portable.
     <temporary score="0">YES</temporary>
     <annotation xml:space="preserve"></annotation>
     <children>
-      <child nodeId="node-0xa42c048"/>
+      <child nodeId="node-0xa5431b0"/>
     </children>
   </item>
-  <item nodeId="node-0xa42c048">
+  <item nodeId="node-0xa5431b0">
     <command xml:space="preserve">e</command>
     <result xml:space="preserve">Banners
 Benito follows dutify behind you...
@@ -3062,10 +3404,10 @@ Benito follows dutify behind you...
     <temporary score="0">YES</temporary>
     <annotation xml:space="preserve"></annotation>
     <children>
-      <child nodeId="node-0xa42c120"/>
+      <child nodeId="node-0xa543288"/>
     </children>
   </item>
-  <item nodeId="node-0xa42c120">
+  <item nodeId="node-0xa543288">
     <command xml:space="preserve">smell</command>
     <result xml:space="preserve">You smell nothing unexpected.
 
@@ -3076,23 +3418,23 @@ Benito follows dutify behind you...
     <temporary score="0">YES</temporary>
     <annotation xml:space="preserve"></annotation>
   </item>
-  <item nodeId="node-0xa42c1f8">
+  <item nodeId="node-0xa543360">
     <command xml:space="preserve">shout</command>
     <result xml:space="preserve">You scream. You can hear the scream but nothing answers...
 
 &gt;</result>
     <commentary xml:space="preserve"></commentary>
-    <played>YES</played>
+    <played>NO</played>
     <changed>YES</changed>
     <temporary score="0">YES</temporary>
     <annotation xml:space="preserve"></annotation>
     <children>
-      <child nodeId="node-0xa42c2d0"/>
-      <child nodeId="node-0xa42c708"/>
-      <child nodeId="node-0xa4f13a8"/>
+      <child nodeId="node-0xa543438"/>
+      <child nodeId="node-0xa55e118"/>
+      <child nodeId="node-0xa55e550"/>
     </children>
   </item>
-  <item nodeId="node-0xa42c2d0">
+  <item nodeId="node-0xa543438">
     <command xml:space="preserve">shout</command>
     <result xml:space="preserve">&gt;</result>
     <commentary xml:space="preserve"></commentary>
@@ -3101,10 +3443,10 @@ Benito follows dutify behind you...
     <temporary score="0">YES</temporary>
     <annotation xml:space="preserve"></annotation>
     <children>
-      <child nodeId="node-0xa42c3a8"/>
+      <child nodeId="node-0xa543510"/>
     </children>
   </item>
-  <item nodeId="node-0xa42c3a8">
+  <item nodeId="node-0xa543510">
     <command xml:space="preserve">take bottle</command>
     <result xml:space="preserve">Taken.
 
@@ -3115,10 +3457,10 @@ Benito follows dutify behind you...
     <temporary score="0">YES</temporary>
     <annotation xml:space="preserve"></annotation>
     <children>
-      <child nodeId="node-0xa42c480"/>
+      <child nodeId="node-0xa5435e8"/>
     </children>
   </item>
-  <item nodeId="node-0xa42c480">
+  <item nodeId="node-0xa5435e8">
     <command xml:space="preserve">l</command>
     <result xml:space="preserve">Rolling Plain
 You are on a large grassy plain.
@@ -3132,10 +3474,10 @@ You can see a heavyset man here.
     <temporary score="0">YES</temporary>
     <annotation xml:space="preserve"></annotation>
     <children>
-      <child nodeId="node-0xa42c558"/>
+      <child nodeId="node-0xa5436c0"/>
     </children>
   </item>
-  <item nodeId="node-0xa42c558">
+  <item nodeId="node-0xa5436c0">
     <command xml:space="preserve">talk to man</command>
     <result xml:space="preserve">That&apos;s not a verb I recognise.
 
@@ -3146,10 +3488,10 @@ You can see a heavyset man here.
     <temporary score="0">YES</temporary>
     <annotation xml:space="preserve"></annotation>
     <children>
-      <child nodeId="node-0xa42c630"/>
+      <child nodeId="node-0xa55e040"/>
     </children>
   </item>
-  <item nodeId="node-0xa42c630">
+  <item nodeId="node-0xa55e040">
     <command xml:space="preserve">examine heavyset</command>
     <result xml:space="preserve">You ask the heavyset man who he is and he replies Call me Benito, I rescued you from the bottle.
 
@@ -3160,7 +3502,7 @@ You can see a heavyset man here.
     <temporary score="0">YES</temporary>
     <annotation xml:space="preserve"></annotation>
   </item>
-  <item nodeId="node-0xa42c708">
+  <item nodeId="node-0xa55e118">
     <command xml:space="preserve">e</command>
     <result xml:space="preserve">Kite Chase
 heavyset man follows dutify behind you...
@@ -3172,10 +3514,10 @@ heavyset man follows dutify behind you...
     <temporary score="0">YES</temporary>
     <annotation xml:space="preserve"></annotation>
     <children>
-      <child nodeId="node-0xa43a000"/>
+      <child nodeId="node-0xa55e1f0"/>
     </children>
   </item>
-  <item nodeId="node-0xa43a000">
+  <item nodeId="node-0xa55e1f0">
     <command xml:space="preserve">examine man</command>
     <result xml:space="preserve">You ask the heavyset man who he is and he replies &quot;I am Benito, I rescued you from the bottle.&quot;
 
@@ -3186,10 +3528,10 @@ heavyset man follows dutify behind you...
     <temporary score="0">YES</temporary>
     <annotation xml:space="preserve"></annotation>
     <children>
-      <child nodeId="node-0xa43a0d8"/>
+      <child nodeId="node-0xa55e2c8"/>
     </children>
   </item>
-  <item nodeId="node-0xa43a0d8">
+  <item nodeId="node-0xa55e2c8">
     <command xml:space="preserve">l</command>
     <result xml:space="preserve">Kite Chase
 You can see Benito here.
@@ -3201,10 +3543,10 @@ You can see Benito here.
     <temporary score="0">YES</temporary>
     <annotation xml:space="preserve"></annotation>
     <children>
-      <child nodeId="node-0xa43a1b0"/>
+      <child nodeId="node-0xa55e3a0"/>
     </children>
   </item>
-  <item nodeId="node-0xa43a1b0">
+  <item nodeId="node-0xa55e3a0">
     <command xml:space="preserve">exits</command>
     <result xml:space="preserve">That&apos;s not a verb I recognise.
 
@@ -3215,10 +3557,10 @@ You can see Benito here.
     <temporary score="0">YES</temporary>
     <annotation xml:space="preserve"></annotation>
     <children>
-      <child nodeId="node-0xa43a288"/>
+      <child nodeId="node-0xa55e478"/>
     </children>
   </item>
-  <item nodeId="node-0xa43a288">
+  <item nodeId="node-0xa55e478">
     <command xml:space="preserve">w</command>
     <result xml:space="preserve">Rolling Plain
 A bronze Djinn Bottle.
@@ -3232,19 +3574,19 @@ Benito follows dutify behind you...
     <temporary score="0">YES</temporary>
     <annotation xml:space="preserve"></annotation>
   </item>
-  <item nodeId="node-0xa4f13a8">
+  <item nodeId="node-0xa55e550">
     <command xml:space="preserve">look</command>
     <result xml:space="preserve">Bronze
 All you can see is a featureless bronze nothingness.  You can&apos;t even see... yourself.
 
 &gt;</result>
     <commentary xml:space="preserve"></commentary>
-    <played>YES</played>
+    <played>NO</played>
     <changed>YES</changed>
     <temporary score="0">YES</temporary>
     <annotation xml:space="preserve"></annotation>
   </item>
-  <item nodeId="node-0xa43a360">
+  <item nodeId="node-0xa55e628">
     <command xml:space="preserve">scream</command>
     <result xml:space="preserve">You nothing. You can hear the scream but nothing answers...
 
@@ -3255,11 +3597,11 @@ All you can see is a featureless bronze nothingness.  You can&apos;t even see...
     <temporary score="0">YES</temporary>
     <annotation xml:space="preserve"></annotation>
     <children>
-      <child nodeId="node-0xa43a438"/>
-      <child nodeId="node-0xa43a6c0"/>
+      <child nodeId="node-0xa55e700"/>
+      <child nodeId="node-0xa56c9e0"/>
     </children>
   </item>
-  <item nodeId="node-0xa43a438">
+  <item nodeId="node-0xa55e700">
     <command xml:space="preserve">shout</command>
     <result xml:space="preserve">You shout, &quot;For the love of God, get me out of here!&quot;  You suddenly feel like you exist again... and look around you...
 
@@ -3277,10 +3619,10 @@ You can also see a heavyset man here.
     <temporary score="0">YES</temporary>
     <annotation xml:space="preserve"></annotation>
     <children>
-      <child nodeId="node-0xa43a510"/>
+      <child nodeId="node-0xa56c830"/>
     </children>
   </item>
-  <item nodeId="node-0xa43a510">
+  <item nodeId="node-0xa56c830">
     <command xml:space="preserve">e</command>
     <result xml:space="preserve">Kite Chase
 Benito follows dutify behind you...
@@ -3292,10 +3634,10 @@ Benito follows dutify behind you...
     <temporary score="0">YES</temporary>
     <annotation xml:space="preserve"></annotation>
     <children>
-      <child nodeId="node-0xa43a5e8"/>
+      <child nodeId="node-0xa56c908"/>
     </children>
   </item>
-  <item nodeId="node-0xa43a5e8">
+  <item nodeId="node-0xa56c908">
     <command xml:space="preserve">l</command>
     <result xml:space="preserve">Kite Chase
 You can see a heavyset man here.
@@ -3307,7 +3649,7 @@ You can see a heavyset man here.
     <temporary score="0">YES</temporary>
     <annotation xml:space="preserve"></annotation>
   </item>
-  <item nodeId="node-0xa43a6c0">
+  <item nodeId="node-0xa56c9e0">
     <command xml:space="preserve">r</command>
     <result xml:space="preserve">That&apos;s not a verb I recognise.
 
@@ -3318,10 +3660,10 @@ You can see a heavyset man here.
     <temporary score="0">YES</temporary>
     <annotation xml:space="preserve"></annotation>
     <children>
-      <child nodeId="node-0xa456030"/>
+      <child nodeId="node-0xa56cab8"/>
     </children>
   </item>
-  <item nodeId="node-0xa456030">
+  <item nodeId="node-0xa56cab8">
     <command xml:space="preserve">e</command>
     <result xml:space="preserve">Banners
 In the distance, you can see hundreds of people chasing a banner.
@@ -3339,7 +3681,7 @@ Benito trudges along behind you...
     <temporary score="0">YES</temporary>
     <annotation xml:space="preserve"></annotation>
   </item>
-  <item nodeId="node-0xa456108">
+  <item nodeId="node-0xa56cb90">
     <command xml:space="preserve">look at sky</command>
     <result xml:space="preserve">You can move, or rather you can move?  There is no place to go!
 
@@ -3350,10 +3692,10 @@ Benito trudges along behind you...
     <temporary score="0">YES</temporary>
     <annotation xml:space="preserve"></annotation>
     <children>
-      <child nodeId="node-0xa4561e0"/>
+      <child nodeId="node-0xa56cc68"/>
     </children>
   </item>
-  <item nodeId="node-0xa4561e0">
+  <item nodeId="node-0xa56cc68">
     <command xml:space="preserve">wait</command>
     <result xml:space="preserve">You can move, or rather you can move?  There is no place to go!
 
@@ -3364,10 +3706,10 @@ Benito trudges along behind you...
     <temporary score="0">YES</temporary>
     <annotation xml:space="preserve"></annotation>
     <children>
-      <child nodeId="node-0xa4562b8"/>
+      <child nodeId="node-0xa56cd40"/>
     </children>
   </item>
-  <item nodeId="node-0xa4562b8">
+  <item nodeId="node-0xa56cd40">
     <command xml:space="preserve">shout</command>
     <result xml:space="preserve">You shout, &quot;For the love of God, get me out of here!&quot;  You suddenly feel like you exist again... and look around you...
 
@@ -3385,10 +3727,10 @@ You can also see a heavyset man here.
     <temporary score="0">YES</temporary>
     <annotation xml:space="preserve"></annotation>
     <children>
-      <child nodeId="node-0xa456390"/>
+      <child nodeId="node-0xa56ce18"/>
     </children>
   </item>
-  <item nodeId="node-0xa456390">
+  <item nodeId="node-0xa56ce18">
     <command xml:space="preserve">take heavyset</command>
     <result xml:space="preserve">Taken.
 
@@ -3399,10 +3741,10 @@ You can also see a heavyset man here.
     <temporary score="0">YES</temporary>
     <annotation xml:space="preserve"></annotation>
     <children>
-      <child nodeId="node-0xa456468"/>
+      <child nodeId="node-0xa56cef0"/>
     </children>
   </item>
-  <item nodeId="node-0xa456468">
+  <item nodeId="node-0xa56cef0">
     <command xml:space="preserve">e</command>
     <result xml:space="preserve">Kite Chase
 
@@ -3413,10 +3755,10 @@ You can also see a heavyset man here.
     <temporary score="0">YES</temporary>
     <annotation xml:space="preserve"></annotation>
     <children>
-      <child nodeId="node-0xa456540"/>
+      <child nodeId="node-0xa57b030"/>
     </children>
   </item>
-  <item nodeId="node-0xa456540">
+  <item nodeId="node-0xa57b030">
     <command xml:space="preserve">l</command>
     <result xml:space="preserve">Kite Chase
 
@@ -3427,10 +3769,10 @@ You can also see a heavyset man here.
     <temporary score="0">YES</temporary>
     <annotation xml:space="preserve"></annotation>
     <children>
-      <child nodeId="node-0xa456618"/>
+      <child nodeId="node-0xa57b108"/>
     </children>
   </item>
-  <item nodeId="node-0xa456618">
+  <item nodeId="node-0xa57b108">
     <command xml:space="preserve">w</command>
     <result xml:space="preserve">Rolling Plain
 A bronze Djinn Bottle is laying on the ground.
@@ -3442,10 +3784,10 @@ A bronze Djinn Bottle is laying on the ground.
     <temporary score="0">YES</temporary>
     <annotation xml:space="preserve"></annotation>
     <children>
-      <child nodeId="node-0xa4566f0"/>
+      <child nodeId="node-0xa57b1e0"/>
     </children>
   </item>
-  <item nodeId="node-0xa4566f0">
+  <item nodeId="node-0xa57b1e0">
     <command xml:space="preserve">examine heavyset</command>
     <result xml:space="preserve">You ask the heavyset man who he is and he replies &quot;I am Benito, I rescued you from the bottle.&quot;
 
@@ -3456,7 +3798,7 @@ A bronze Djinn Bottle is laying on the ground.
     <temporary score="0">YES</temporary>
     <annotation xml:space="preserve"></annotation>
   </item>
-  <item nodeId="node-0xa464818">
+  <item nodeId="node-0xa57b2b8">
     <command xml:space="preserve">die</command>
     <result xml:space="preserve">That&apos;s not a verb I recognise.
 
@@ -3467,10 +3809,10 @@ A bronze Djinn Bottle is laying on the ground.
     <temporary score="0">YES</temporary>
     <annotation xml:space="preserve"></annotation>
     <children>
-      <child nodeId="node-0xa4648f0"/>
+      <child nodeId="node-0xa57b390"/>
     </children>
   </item>
-  <item nodeId="node-0xa4648f0">
+  <item nodeId="node-0xa57b390">
     <command xml:space="preserve">shout</command>
     <result xml:space="preserve">You shout, &quot;For the love of God, get me out of here!&quot;  You suddenly feel like you exist again... and look around you...
 
@@ -3488,10 +3830,10 @@ heavyset man  is here.
     <temporary score="0">YES</temporary>
     <annotation xml:space="preserve"></annotation>
     <children>
-      <child nodeId="node-0xa4649c8"/>
+      <child nodeId="node-0xa57b468"/>
     </children>
   </item>
-  <item nodeId="node-0xa4649c8">
+  <item nodeId="node-0xa57b468">
     <command xml:space="preserve">examine man</command>
     <result xml:space="preserve">You ask the heavyset man who he is and he replies &quot;I am Benito, I rescued you from the bottle.&quot;
 
@@ -3502,10 +3844,10 @@ heavyset man  is here.
     <temporary score="0">YES</temporary>
     <annotation xml:space="preserve"></annotation>
     <children>
-      <child nodeId="node-0xa464aa0"/>
+      <child nodeId="node-0xa57b540"/>
     </children>
   </item>
-  <item nodeId="node-0xa464aa0">
+  <item nodeId="node-0xa57b540">
     <command xml:space="preserve">look</command>
     <result xml:space="preserve">Rolling Plain
 You are on a large grassy plain.  To the north you see a river and a wall, far in the distance.  To the east a large group of people seem to be chasing a kite.
@@ -3521,7 +3863,7 @@ Benito  is here.
     <temporary score="0">YES</temporary>
     <annotation xml:space="preserve"></annotation>
   </item>
-  <item nodeId="node-0xa464b78">
+  <item nodeId="node-0xa57b618">
     <command xml:space="preserve">l</command>
     <result xml:space="preserve">Bronze
 All you can see is a featureless bronze nothingness.  You can&apos;t even see... yourself.
@@ -3533,11 +3875,11 @@ All you can see is a featureless bronze nothingness.  You can&apos;t even see...
     <temporary score="0">YES</temporary>
     <annotation xml:space="preserve"></annotation>
     <children>
-      <child nodeId="node-0xa464c50"/>
-      <child nodeId="node-0xa473040"/>
+      <child nodeId="node-0xa57b6f0"/>
+      <child nodeId="node-0xa5972a8"/>
     </children>
   </item>
-  <item nodeId="node-0xa464c50">
+  <item nodeId="node-0xa57b6f0">
     <command xml:space="preserve">yell</command>
     <result xml:space="preserve">You shout, &quot;For the love of God, get me out of here!&quot;  You suddenly feel like you exist again... and look around you...
 
@@ -3555,10 +3897,10 @@ heavyset man is here.
     <temporary score="0">YES</temporary>
     <annotation xml:space="preserve"></annotation>
     <children>
-      <child nodeId="node-0xa464d28"/>
+      <child nodeId="node-0xa597020"/>
     </children>
   </item>
-  <item nodeId="node-0xa464d28">
+  <item nodeId="node-0xa597020">
     <command xml:space="preserve">n</command>
     <result xml:space="preserve">Wall
 No matter how far you walk, the wall never seems to get any closer...
@@ -3572,10 +3914,10 @@ heavyset man follows dutify behind you...
     <temporary score="0">YES</temporary>
     <annotation xml:space="preserve"></annotation>
     <children>
-      <child nodeId="node-0xa464e00"/>
+      <child nodeId="node-0xa5970f8"/>
     </children>
   </item>
-  <item nodeId="node-0xa464e00">
+  <item nodeId="node-0xa5970f8">
     <command xml:space="preserve">n</command>
     <result xml:space="preserve">You can&apos;t go that way.
 
@@ -3586,10 +3928,10 @@ heavyset man follows dutify behind you...
     <temporary score="0">YES</temporary>
     <annotation xml:space="preserve"></annotation>
     <children>
-      <child nodeId="node-0xa464ed8"/>
+      <child nodeId="node-0xa5971d0"/>
     </children>
   </item>
-  <item nodeId="node-0xa464ed8">
+  <item nodeId="node-0xa5971d0">
     <command xml:space="preserve">look at sky</command>
     <result xml:space="preserve">The sky is cold grey.  Not cloudy, just flat and featureless.
 
@@ -3600,7 +3942,7 @@ heavyset man follows dutify behind you...
     <temporary score="0">YES</temporary>
     <annotation xml:space="preserve"></annotation>
   </item>
-  <item nodeId="node-0xa473040">
+  <item nodeId="node-0xa5972a8">
     <command xml:space="preserve">scream</command>
     <result xml:space="preserve">You shout, &quot;For the love of God, get me out of here!&quot;  You suddenly feel like you exist again... and look around you...
 
@@ -3618,10 +3960,10 @@ A fat man is here.
     <temporary score="0">YES</temporary>
     <annotation xml:space="preserve"></annotation>
     <children>
-      <child nodeId="node-0xa473118"/>
+      <child nodeId="node-0xa597380"/>
     </children>
   </item>
-  <item nodeId="node-0xa473118">
+  <item nodeId="node-0xa597380">
     <command xml:space="preserve">talk to fat man</command>
     <result xml:space="preserve">That&apos;s not a verb I recognise.
 
@@ -3632,10 +3974,10 @@ A fat man is here.
     <temporary score="0">YES</temporary>
     <annotation xml:space="preserve"></annotation>
     <children>
-      <child nodeId="node-0xa4731f0"/>
+      <child nodeId="node-0xa597458"/>
     </children>
   </item>
-  <item nodeId="node-0xa4731f0">
+  <item nodeId="node-0xa597458">
     <command xml:space="preserve">look at fat man</command>
     <result xml:space="preserve">You ask the fat man who he is and he replies &quot;I am Benito, I rescued you from the bottle.&quot;
 
@@ -3646,9 +3988,11 @@ A fat man is here.
     <temporary score="0">YES</temporary>
     <annotation xml:space="preserve"></annotation>
   </item>
-  <item nodeId="node-0xa4732c8">
+  <item nodeId="node-0xa597530">
     <command xml:space="preserve">smell</command>
-    <result xml:space="preserve">You can move, or rather you can move?  There is no place to go!
+    <result xml:space="preserve">It smells foetid, with an acrid tinge, decay and sickly sweet perfume to cover the smells of death, orange blossoms mingled with hospital smells, but sickening all the same.
+
+fat guy trudges along behind you...
 
 &gt;</result>
     <commentary xml:space="preserve"></commentary>
@@ -3657,10 +4001,10 @@ A fat man is here.
     <temporary score="0">YES</temporary>
     <annotation xml:space="preserve"></annotation>
     <children>
-      <child nodeId="node-0xa4733a0"/>
+      <child nodeId="node-0xa597608"/>
     </children>
   </item>
-  <item nodeId="node-0xa4733a0">
+  <item nodeId="node-0xa597608">
     <command xml:space="preserve">yell</command>
     <result xml:space="preserve">You shout at the top of your lungs.  Nothing interesting happens...
 
@@ -3671,10 +4015,10 @@ A fat man is here.
     <temporary score="0">YES</temporary>
     <annotation xml:space="preserve"></annotation>
     <children>
-      <child nodeId="node-0xa473478"/>
+      <child nodeId="node-0xa5976e0"/>
     </children>
   </item>
-  <item nodeId="node-0xa473478">
+  <item nodeId="node-0xa5976e0">
     <command xml:space="preserve">smell</command>
     <result xml:space="preserve">You can move, or rather you can move?  There is no place to go!
 
@@ -3685,10 +4029,10 @@ A fat man is here.
     <temporary score="0">YES</temporary>
     <annotation xml:space="preserve"></annotation>
     <children>
-      <child nodeId="node-0xa473550"/>
+      <child nodeId="node-0xa5a6838"/>
     </children>
   </item>
-  <item nodeId="node-0xa473550">
+  <item nodeId="node-0xa5a6838">
     <command xml:space="preserve">shout</command>
     <result xml:space="preserve">You shout at the top of your lungs.  Nothing interesting happens...
 
@@ -3699,10 +4043,10 @@ A fat man is here.
     <temporary score="0">YES</temporary>
     <annotation xml:space="preserve"></annotation>
     <children>
-      <child nodeId="node-0xa473628"/>
+      <child nodeId="node-0xa5a6910"/>
     </children>
   </item>
-  <item nodeId="node-0xa473628">
+  <item nodeId="node-0xa5a6910">
     <command xml:space="preserve">yell</command>
     <result xml:space="preserve">You shout at the top of your lungs.  Nothing interesting happens...
 
@@ -3713,10 +4057,10 @@ A fat man is here.
     <temporary score="0">YES</temporary>
     <annotation xml:space="preserve"></annotation>
     <children>
-      <child nodeId="node-0xa473700"/>
+      <child nodeId="node-0xa5a69e8"/>
     </children>
   </item>
-  <item nodeId="node-0xa473700">
+  <item nodeId="node-0xa5a69e8">
     <command xml:space="preserve">pray</command>
     <result xml:space="preserve">You shout at the top of your lungs.  Nothing interesting happens...
 
@@ -3727,10 +4071,10 @@ A fat man is here.
     <temporary score="0">YES</temporary>
     <annotation xml:space="preserve"></annotation>
     <children>
-      <child nodeId="node-0xa48f010"/>
+      <child nodeId="node-0xa5a6ac0"/>
     </children>
   </item>
-  <item nodeId="node-0xa48f010">
+  <item nodeId="node-0xa5a6ac0">
     <command xml:space="preserve">restart</command>
     <result xml:space="preserve">Are you sure you want to restart?</result>
     <commentary xml:space="preserve"></commentary>
@@ -3739,10 +4083,10 @@ A fat man is here.
     <temporary score="0">YES</temporary>
     <annotation xml:space="preserve"></annotation>
     <children>
-      <child nodeId="node-0xa48f0e8"/>
+      <child nodeId="node-0xa5a6b98"/>
     </children>
   </item>
-  <item nodeId="node-0xa48f0e8">
+  <item nodeId="node-0xa5a6b98">
     <command xml:space="preserve">yes</command>
     <result xml:space="preserve">You are dead.  This is a unique way to begin.  Item: &quot;Science Fiction Author falls to death during drinking contest at Science Fiction Convention.&quot;
 
@@ -3760,10 +4104,10 @@ All you can see is a featureless bronze nothingness.  You can&apos;t even see...
     <temporary score="0">YES</temporary>
     <annotation xml:space="preserve"></annotation>
     <children>
-      <child nodeId="node-0xa48f1c0"/>
+      <child nodeId="node-0xa5a6c70"/>
     </children>
   </item>
-  <item nodeId="node-0xa48f1c0">
+  <item nodeId="node-0xa5a6c70">
     <command xml:space="preserve">shout</command>
     <result xml:space="preserve">You shout at the top of your lungs.  Nothing interesting happens...
 
@@ -3774,10 +4118,10 @@ All you can see is a featureless bronze nothingness.  You can&apos;t even see...
     <temporary score="0">YES</temporary>
     <annotation xml:space="preserve"></annotation>
     <children>
-      <child nodeId="node-0xa48f298"/>
+      <child nodeId="node-0xa5a6d48"/>
     </children>
   </item>
-  <item nodeId="node-0xa48f298">
+  <item nodeId="node-0xa5a6d48">
     <command xml:space="preserve">pray</command>
     <result xml:space="preserve">You shout at the top of your lungs.  Nothing interesting happens...
 
@@ -3788,7 +4132,7 @@ All you can see is a featureless bronze nothingness.  You can&apos;t even see...
     <temporary score="0">YES</temporary>
     <annotation xml:space="preserve"></annotation>
   </item>
-  <item nodeId="node-0xa48f370">
+  <item nodeId="node-0xa5a6e20">
     <command xml:space="preserve">wait</command>
     <result xml:space="preserve">You can move, or rather you can move?  There is no place to go!
 
@@ -3799,10 +4143,10 @@ All you can see is a featureless bronze nothingness.  You can&apos;t even see...
     <temporary score="0">YES</temporary>
     <annotation xml:space="preserve"></annotation>
     <children>
-      <child nodeId="node-0xa48f448"/>
+      <child nodeId="node-0xa5a6ef8"/>
     </children>
   </item>
-  <item nodeId="node-0xa48f448">
+  <item nodeId="node-0xa5a6ef8">
     <command xml:space="preserve">pray</command>
     <result xml:space="preserve">You shout, &quot;For the love of God, get me out of here!&quot;  You suddenly feel like you exist again... and look around you...
 
@@ -3820,10 +4164,10 @@ fat guy is here.
     <temporary score="0">YES</temporary>
     <annotation xml:space="preserve"></annotation>
     <children>
-      <child nodeId="node-0xa48f520"/>
+      <child nodeId="node-0xa5b4808"/>
     </children>
   </item>
-  <item nodeId="node-0xa48f520">
+  <item nodeId="node-0xa5b4808">
     <command xml:space="preserve">examine fat y</command>
     <result xml:space="preserve">I only understood you as far as wanting to examine the fat guy.
 
@@ -3834,10 +4178,10 @@ fat guy is here.
     <temporary score="0">YES</temporary>
     <annotation xml:space="preserve"></annotation>
     <children>
-      <child nodeId="node-0xa48f5f8"/>
+      <child nodeId="node-0xa5b48e0"/>
     </children>
   </item>
-  <item nodeId="node-0xa48f5f8">
+  <item nodeId="node-0xa5b48e0">
     <command xml:space="preserve">examine fat</command>
     <result xml:space="preserve">You ask the fat man who he is and he replies &quot;I am Benito, I rescued you from the bottle.&quot;
 
@@ -3848,10 +4192,10 @@ fat guy is here.
     <temporary score="0">YES</temporary>
     <annotation xml:space="preserve"></annotation>
     <children>
-      <child nodeId="node-0xa48f6d0"/>
+      <child nodeId="node-0xa5b49b8"/>
     </children>
   </item>
-  <item nodeId="node-0xa48f6d0">
+  <item nodeId="node-0xa5b49b8">
     <command xml:space="preserve">l</command>
     <result xml:space="preserve">Rolling Plain
 You are on a large grassy plain.  To the north you see a river and a wall, far in the distance.  To the east a large group of people seem to be chasing a kite.
@@ -3867,10 +4211,10 @@ Benito is here.
     <temporary score="0">YES</temporary>
     <annotation xml:space="preserve"></annotation>
     <children>
-      <child nodeId="node-0xa49e810"/>
+      <child nodeId="node-0xa5b4a90"/>
     </children>
   </item>
-  <item nodeId="node-0xa49e810">
+  <item nodeId="node-0xa5b4a90">
     <command xml:space="preserve">n</command>
     <result xml:space="preserve">Wall
 No matter how far you walk, the wall never seems to get any closer...
@@ -3884,10 +4228,10 @@ Benito trudges along behind you...
     <temporary score="0">YES</temporary>
     <annotation xml:space="preserve"></annotation>
     <children>
-      <child nodeId="node-0xa49e8e8"/>
+      <child nodeId="node-0xa5b4b68"/>
     </children>
   </item>
-  <item nodeId="node-0xa49e8e8">
+  <item nodeId="node-0xa5b4b68">
     <command xml:space="preserve">n</command>
     <result xml:space="preserve">You continue walking north...
 
@@ -3898,10 +4242,10 @@ Benito trudges along behind you...
     <temporary score="0">YES</temporary>
     <annotation xml:space="preserve"></annotation>
     <children>
-      <child nodeId="node-0xa49e9c0"/>
+      <child nodeId="node-0xa5b4c40"/>
     </children>
   </item>
-  <item nodeId="node-0xa49e9c0">
+  <item nodeId="node-0xa5b4c40">
     <command xml:space="preserve">n</command>
     <result xml:space="preserve">You continue walking north...
 
@@ -3912,10 +4256,10 @@ Benito trudges along behind you...
     <temporary score="0">YES</temporary>
     <annotation xml:space="preserve"></annotation>
     <children>
-      <child nodeId="node-0xa49ea98"/>
+      <child nodeId="node-0xa5b4d18"/>
     </children>
   </item>
-  <item nodeId="node-0xa49ea98">
+  <item nodeId="node-0xa5b4d18">
     <command xml:space="preserve">n</command>
     <result xml:space="preserve">You continue walking north...
 
@@ -3926,10 +4270,10 @@ Benito trudges along behind you...
     <temporary score="0">YES</temporary>
     <annotation xml:space="preserve"></annotation>
     <children>
-      <child nodeId="node-0xa49eb70"/>
+      <child nodeId="node-0xa5b4df0"/>
     </children>
   </item>
-  <item nodeId="node-0xa49eb70">
+  <item nodeId="node-0xa5b4df0">
     <command xml:space="preserve">n</command>
     <result xml:space="preserve">You continue walking north...
 
@@ -3940,10 +4284,10 @@ Benito trudges along behind you...
     <temporary score="0">YES</temporary>
     <annotation xml:space="preserve"></annotation>
     <children>
-      <child nodeId="node-0xa49ec48"/>
+      <child nodeId="node-0xa5b4ec8"/>
     </children>
   </item>
-  <item nodeId="node-0xa49ec48">
+  <item nodeId="node-0xa5b4ec8">
     <command xml:space="preserve">n</command>
     <result xml:space="preserve">Benito says, &quot;We could walk for eternity and never reach that wall, and we have eternity.&quot;
 
@@ -3956,10 +4300,10 @@ Benito trudges along behind you...
     <temporary score="0">YES</temporary>
     <annotation xml:space="preserve"></annotation>
     <children>
-      <child nodeId="node-0xa49ed20"/>
+      <child nodeId="node-0xa5c3010"/>
     </children>
   </item>
-  <item nodeId="node-0xa49ed20">
+  <item nodeId="node-0xa5c3010">
     <command xml:space="preserve">n</command>
     <result xml:space="preserve">You continue walking north...
 
@@ -3970,10 +4314,10 @@ Benito trudges along behind you...
     <temporary score="0">YES</temporary>
     <annotation xml:space="preserve"></annotation>
     <children>
-      <child nodeId="node-0xa49edf8"/>
+      <child nodeId="node-0xa5c30e8"/>
     </children>
   </item>
-  <item nodeId="node-0xa49edf8">
+  <item nodeId="node-0xa5c30e8">
     <command xml:space="preserve">n</command>
     <result xml:space="preserve">You continue walking north...
 
@@ -3984,10 +4328,10 @@ Benito trudges along behind you...
     <temporary score="0">YES</temporary>
     <annotation xml:space="preserve"></annotation>
     <children>
-      <child nodeId="node-0xa49eed0"/>
+      <child nodeId="node-0xa5c31c0"/>
     </children>
   </item>
-  <item nodeId="node-0xa49eed0">
+  <item nodeId="node-0xa5c31c0">
     <command xml:space="preserve">n</command>
     <result xml:space="preserve">Benito says, &quot;I know the real way to escape.  Why not ask me...&quot;
 
@@ -4000,10 +4344,10 @@ Benito trudges along behind you...
     <temporary score="0">YES</temporary>
     <annotation xml:space="preserve"></annotation>
     <children>
-      <child nodeId="node-0xa4ad010"/>
+      <child nodeId="node-0xa5c3298"/>
     </children>
   </item>
-  <item nodeId="node-0xa4ad010">
+  <item nodeId="node-0xa5c3298">
     <command xml:space="preserve">n</command>
     <result xml:space="preserve">You continue walking north...
 
@@ -4014,10 +4358,10 @@ Benito trudges along behind you...
     <temporary score="0">YES</temporary>
     <annotation xml:space="preserve"></annotation>
     <children>
-      <child nodeId="node-0xa4ad0e8"/>
+      <child nodeId="node-0xa5c3370"/>
     </children>
   </item>
-  <item nodeId="node-0xa4ad0e8">
+  <item nodeId="node-0xa5c3370">
     <command xml:space="preserve">n</command>
     <result xml:space="preserve">Benito says, &quot;We could walk for eternity and never reach that wall, and we have eternity.&quot;
 
@@ -4030,10 +4374,10 @@ Benito trudges along behind you...
     <temporary score="0">YES</temporary>
     <annotation xml:space="preserve"></annotation>
     <children>
-      <child nodeId="node-0xa4ad1c0"/>
+      <child nodeId="node-0xa5c3448"/>
     </children>
   </item>
-  <item nodeId="node-0xa4ad1c0">
+  <item nodeId="node-0xa5c3448">
     <command xml:space="preserve">n</command>
     <result xml:space="preserve">Benito says, &quot;We could walk for eternity and never reach that wall, and we have eternity.&quot;
 
@@ -4046,10 +4390,10 @@ Benito trudges along behind you...
     <temporary score="0">YES</temporary>
     <annotation xml:space="preserve"></annotation>
     <children>
-      <child nodeId="node-0xa4ad298"/>
+      <child nodeId="node-0xa5c3520"/>
     </children>
   </item>
-  <item nodeId="node-0xa4ad298">
+  <item nodeId="node-0xa5c3520">
     <command xml:space="preserve">n</command>
     <result xml:space="preserve">You continue walking north...
 
@@ -4060,10 +4404,10 @@ Benito trudges along behind you...
     <temporary score="0">YES</temporary>
     <annotation xml:space="preserve"></annotation>
     <children>
-      <child nodeId="node-0xa4ad370"/>
+      <child nodeId="node-0xa5c35f8"/>
     </children>
   </item>
-  <item nodeId="node-0xa4ad370">
+  <item nodeId="node-0xa5c35f8">
     <command xml:space="preserve">n</command>
     <result xml:space="preserve">Benito says,&quot;Very well, continue towards the wall, until you convince yourself it can never be reached.&quot;
 
@@ -4076,10 +4420,10 @@ Benito trudges along behind you...
     <temporary score="0">YES</temporary>
     <annotation xml:space="preserve"></annotation>
     <children>
-      <child nodeId="node-0xa4ad448"/>
+      <child nodeId="node-0xa5c36d0"/>
     </children>
   </item>
-  <item nodeId="node-0xa4ad448">
+  <item nodeId="node-0xa5c36d0">
     <command xml:space="preserve">ask benito about escape</command>
     <result xml:space="preserve">Benito does not respond.
 
@@ -4090,7 +4434,7 @@ Benito trudges along behind you...
     <temporary score="0">YES</temporary>
     <annotation xml:space="preserve"></annotation>
   </item>
-  <item nodeId="node-0xa4ad520">
+  <item nodeId="node-0xa5ea810">
     <command xml:space="preserve">prey</command>
     <result xml:space="preserve">That&apos;s not a verb I recognise.
 
@@ -4101,10 +4445,10 @@ Benito trudges along behind you...
     <temporary score="0">YES</temporary>
     <annotation xml:space="preserve"></annotation>
     <children>
-      <child nodeId="node-0xa4ad5f8"/>
+      <child nodeId="node-0xa5ea8e8"/>
     </children>
   </item>
-  <item nodeId="node-0xa4ad5f8">
+  <item nodeId="node-0xa5ea8e8">
     <command xml:space="preserve">pray</command>
     <result xml:space="preserve">You shout, &quot;For the love of God, get me out of here!&quot;  You suddenly feel like you exist again... and look around you...
 
@@ -4122,11 +4466,11 @@ You can also see a fat guy here.
     <temporary score="0">YES</temporary>
     <annotation xml:space="preserve"></annotation>
     <children>
-      <child nodeId="node-0xa4ad6d0"/>
-      <child nodeId="node-0xa4bb6d8"/>
+      <child nodeId="node-0xa5ea9c0"/>
+      <child nodeId="node-0xa5f89f8"/>
     </children>
   </item>
-  <item nodeId="node-0xa4ad6d0">
+  <item nodeId="node-0xa5ea9c0">
     <command xml:space="preserve">talk to fat guy</command>
     <result xml:space="preserve">You say hello to the fat guy.
 
@@ -4139,10 +4483,10 @@ You have nothing specific in mind to discuss with the fat guy right now.
     <temporary score="0">YES</temporary>
     <annotation xml:space="preserve"></annotation>
     <children>
-      <child nodeId="node-0xa4bb018"/>
+      <child nodeId="node-0xa5eaa98"/>
     </children>
   </item>
-  <item nodeId="node-0xa4bb018">
+  <item nodeId="node-0xa5eaa98">
     <command xml:space="preserve">examine fat guy</command>
     <result xml:space="preserve">You ask the fat man who he is and he replies &quot;I am Benito, I rescued you from the bottle.&quot;
 
@@ -4153,10 +4497,10 @@ You have nothing specific in mind to discuss with the fat guy right now.
     <temporary score="0">YES</temporary>
     <annotation xml:space="preserve"></annotation>
     <children>
-      <child nodeId="node-0xa4bb0f0"/>
+      <child nodeId="node-0xa5eab70"/>
     </children>
   </item>
-  <item nodeId="node-0xa4bb0f0">
+  <item nodeId="node-0xa5eab70">
     <command xml:space="preserve">examine fat guy</command>
     <result xml:space="preserve">A large, powerful man with a square jaw.  He projects an aura of authority.
 
@@ -4167,10 +4511,10 @@ You have nothing specific in mind to discuss with the fat guy right now.
     <temporary score="0">YES</temporary>
     <annotation xml:space="preserve"></annotation>
     <children>
-      <child nodeId="node-0xa4bb1c8"/>
+      <child nodeId="node-0xa5eac48"/>
     </children>
   </item>
-  <item nodeId="node-0xa4bb1c8">
+  <item nodeId="node-0xa5eac48">
     <command xml:space="preserve">l</command>
     <result xml:space="preserve">Rolling Plain
 You are on a large grassy plain.  To the north you see a river and a wall, far in the distance.  To the east a large group of people seem to be chasing a kite.
@@ -4186,10 +4530,10 @@ You can also see Benito here.
     <temporary score="0">YES</temporary>
     <annotation xml:space="preserve"></annotation>
     <children>
-      <child nodeId="node-0xa4bb2a0"/>
+      <child nodeId="node-0xa5ead20"/>
     </children>
   </item>
-  <item nodeId="node-0xa4bb2a0">
+  <item nodeId="node-0xa5ead20">
     <command xml:space="preserve">w</command>
     <result xml:space="preserve">You can&apos;t go that way.
 
@@ -4200,10 +4544,10 @@ You can also see Benito here.
     <temporary score="0">YES</temporary>
     <annotation xml:space="preserve"></annotation>
     <children>
-      <child nodeId="node-0xa4bb378"/>
+      <child nodeId="node-0xa5eadf8"/>
     </children>
   </item>
-  <item nodeId="node-0xa4bb378">
+  <item nodeId="node-0xa5eadf8">
     <command xml:space="preserve">e</command>
     <result xml:space="preserve">Banners
 In the distance, you can see hundreds of people chasing a banner.
@@ -4221,10 +4565,10 @@ Benito trudges along behind you...
     <temporary score="0">YES</temporary>
     <annotation xml:space="preserve"></annotation>
     <children>
-      <child nodeId="node-0xa4bb450"/>
+      <child nodeId="node-0xa5eaed0"/>
     </children>
   </item>
-  <item nodeId="node-0xa4bb450">
+  <item nodeId="node-0xa5eaed0">
     <command xml:space="preserve">take rock</command>
     <result xml:space="preserve">Benito resists your romantic notions...
 
@@ -4235,10 +4579,10 @@ Benito trudges along behind you...
     <temporary score="0">YES</temporary>
     <annotation xml:space="preserve"></annotation>
     <children>
-      <child nodeId="node-0xa4bb528"/>
+      <child nodeId="node-0xa5f8848"/>
     </children>
   </item>
-  <item nodeId="node-0xa4bb528">
+  <item nodeId="node-0xa5f8848">
     <command xml:space="preserve">take</command>
     <result xml:space="preserve">What do you want to take?
 
@@ -4249,10 +4593,10 @@ Benito trudges along behind you...
     <temporary score="0">YES</temporary>
     <annotation xml:space="preserve"></annotation>
     <children>
-      <child nodeId="node-0xa4bb600"/>
+      <child nodeId="node-0xa5f8920"/>
     </children>
   </item>
-  <item nodeId="node-0xa4bb600">
+  <item nodeId="node-0xa5f8920">
     <command xml:space="preserve">take obese</command>
     <result xml:space="preserve">Benito resists your romantic notions...
 
@@ -4263,7 +4607,7 @@ Benito trudges along behind you...
     <temporary score="0">YES</temporary>
     <annotation xml:space="preserve"></annotation>
   </item>
-  <item nodeId="node-0xa4bb6d8">
+  <item nodeId="node-0xa5f89f8">
     <command xml:space="preserve">examine guy</command>
     <result xml:space="preserve">You ask the fat man who he is and he replies &quot;I am Benito, I rescued you from the bottle.&quot;
 
@@ -4274,10 +4618,10 @@ Benito trudges along behind you...
     <temporary score="0">YES</temporary>
     <annotation xml:space="preserve"></annotation>
     <children>
-      <child nodeId="node-0xa4e3008"/>
+      <child nodeId="node-0xa5f8ad0"/>
     </children>
   </item>
-  <item nodeId="node-0xa4e3008">
+  <item nodeId="node-0xa5f8ad0">
     <command xml:space="preserve">examine guy</command>
     <result xml:space="preserve">A large, powerful man with a square jaw.  He projects an aura of authority.
 
@@ -4288,10 +4632,10 @@ Benito trudges along behind you...
     <temporary score="0">YES</temporary>
     <annotation xml:space="preserve"></annotation>
     <children>
-      <child nodeId="node-0xa4e30e0"/>
+      <child nodeId="node-0xa5f8ba8"/>
     </children>
   </item>
-  <item nodeId="node-0xa4e30e0">
+  <item nodeId="node-0xa5f8ba8">
     <command xml:space="preserve">w</command>
     <result xml:space="preserve">You can&apos;t go that way.
 
@@ -4302,10 +4646,10 @@ Benito trudges along behind you...
     <temporary score="0">YES</temporary>
     <annotation xml:space="preserve"></annotation>
     <children>
-      <child nodeId="node-0xa4e31b8"/>
+      <child nodeId="node-0xa5f8c80"/>
     </children>
   </item>
-  <item nodeId="node-0xa4e31b8">
+  <item nodeId="node-0xa5f8c80">
     <command xml:space="preserve">e</command>
     <result xml:space="preserve">Banners
 In the distance, you can see hundreds of people chasing a banner.
@@ -4323,10 +4667,10 @@ Benito trudges along behind you...
     <temporary score="0">YES</temporary>
     <annotation xml:space="preserve"></annotation>
     <children>
-      <child nodeId="node-0xa4e3290"/>
+      <child nodeId="node-0xa5f8d58"/>
     </children>
   </item>
-  <item nodeId="node-0xa4e3290">
+  <item nodeId="node-0xa5f8d58">
     <command xml:space="preserve">examine obese</command>
     <result xml:space="preserve">You see nothing special about the obese lady.
 
@@ -4337,10 +4681,10 @@ Benito trudges along behind you...
     <temporary score="0">YES</temporary>
     <annotation xml:space="preserve"></annotation>
     <children>
-      <child nodeId="node-0xa4e3368"/>
+      <child nodeId="node-0xa5f8e30"/>
     </children>
   </item>
-  <item nodeId="node-0xa4e3368">
+  <item nodeId="node-0xa5f8e30">
     <command xml:space="preserve">examine woman</command>
     <result xml:space="preserve">You can&apos;t see any such thing.
 
@@ -4351,10 +4695,10 @@ Benito trudges along behind you...
     <temporary score="0">YES</temporary>
     <annotation xml:space="preserve"></annotation>
     <children>
-      <child nodeId="node-0xa4e3440"/>
+      <child nodeId="node-0xa5f8f08"/>
     </children>
   </item>
-  <item nodeId="node-0xa4e3440">
+  <item nodeId="node-0xa5f8f08">
     <command xml:space="preserve">take obese</command>
     <result xml:space="preserve">Benito resists your romantic notions...
 
@@ -4365,10 +4709,10 @@ Benito trudges along behind you...
     <temporary score="0">YES</temporary>
     <annotation xml:space="preserve"></annotation>
     <children>
-      <child nodeId="node-0xa4e3518"/>
+      <child nodeId="node-0xa607048"/>
     </children>
   </item>
-  <item nodeId="node-0xa4e3518">
+  <item nodeId="node-0xa607048">
     <command xml:space="preserve">take woman</command>
     <result xml:space="preserve">You can&apos;t see any such thing.
 
@@ -4379,7 +4723,7 @@ Benito trudges along behind you...
     <temporary score="0">YES</temporary>
     <annotation xml:space="preserve"></annotation>
   </item>
-  <item nodeId="node-0xa4e35f0">
+  <item nodeId="node-0xa607120">
     <command xml:space="preserve">talk</command>
     <result xml:space="preserve">What do you want to talk to?
 
@@ -4390,10 +4734,10 @@ Benito trudges along behind you...
     <temporary score="0">YES</temporary>
     <annotation xml:space="preserve"></annotation>
     <children>
-      <child nodeId="node-0xa4e36c8"/>
+      <child nodeId="node-0xa6071f8"/>
     </children>
   </item>
-  <item nodeId="node-0xa4e36c8">
+  <item nodeId="node-0xa6071f8">
     <command xml:space="preserve">talk to benito</command>
     <result xml:space="preserve">You can&apos;t see any such thing.
 
@@ -4404,10 +4748,10 @@ Benito trudges along behind you...
     <temporary score="0">YES</temporary>
     <annotation xml:space="preserve"></annotation>
     <children>
-      <child nodeId="node-0xa4f1048"/>
+      <child nodeId="node-0xa6072d0"/>
     </children>
   </item>
-  <item nodeId="node-0xa4f1048">
+  <item nodeId="node-0xa6072d0">
     <command xml:space="preserve">pray</command>
     <result xml:space="preserve">You shout, &quot;For the love of God, get me out of here!&quot;  You suddenly feel like you exist again... and look around you...
 
@@ -4425,10 +4769,10 @@ You can also see a fat guy here.
     <temporary score="0">YES</temporary>
     <annotation xml:space="preserve"></annotation>
     <children>
-      <child nodeId="node-0xa4f1120"/>
+      <child nodeId="node-0xa6073a8"/>
     </children>
   </item>
-  <item nodeId="node-0xa4f1120">
+  <item nodeId="node-0xa6073a8">
     <command xml:space="preserve">talk to fat guy</command>
     <result xml:space="preserve">You say hello to the fat guy.
 
@@ -4441,16 +4785,427 @@ You have nothing specific in mind to discuss with the fat guy right now.
     <temporary score="0">YES</temporary>
     <annotation xml:space="preserve"></annotation>
     <children>
-      <child nodeId="node-0xa4f11f8"/>
+      <child nodeId="node-0xa607480"/>
     </children>
   </item>
-  <item nodeId="node-0xa4f11f8">
+  <item nodeId="node-0xa607480">
     <command xml:space="preserve">talk to woozie</command>
     <result xml:space="preserve">You can&apos;t see any such thing.
 
 &gt;</result>
     <commentary xml:space="preserve"></commentary>
     <played>NO</played>
+    <changed>YES</changed>
+    <temporary score="0">YES</temporary>
+    <annotation xml:space="preserve"></annotation>
+  </item>
+  <item nodeId="node-0xaf81d10">
+    <command xml:space="preserve">repent</command>
+    <result xml:space="preserve">You shout, &quot;For the love of God, get me out of here!&quot;  You suddenly feel like you exist again... and look around you...
+
+Rolling Plain
+You are on a large grassy plain.   To the north you see a river and a wall, far in the distance.  To the east a large group of people seem to be chasing a banner.
+
+A bronze Djinn Bottle is laying on the ground.
+
+You can also see a fat guy here.
+
+The fat man says, &quot;I am Benito, I rescued you from the bottle.  What is your name?
+
+You have nothing specific in mind to discuss with Benito right now.
+
+&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>NO</played>
+    <changed>YES</changed>
+    <temporary score="0">YES</temporary>
+    <annotation xml:space="preserve"></annotation>
+  </item>
+  <item nodeId="node-0xb40d558">
+    <command xml:space="preserve">look isaac</command>
+    <result xml:space="preserve">You see nothing special about Isaac Asimov.
+
+&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>NO</played>
+    <changed>YES</changed>
+    <temporary score="0">YES</temporary>
+    <annotation xml:space="preserve"></annotation>
+  </item>
+  <item nodeId="node-0xb40d480">
+    <command xml:space="preserve">talk to issac</command>
+    <result xml:space="preserve">You can&apos;t see any such thing.
+
+&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>NO</played>
+    <changed>YES</changed>
+    <temporary score="0">YES</temporary>
+    <annotation xml:space="preserve"></annotation>
+    <children>
+      <child nodeId="node-0xb40d630"/>
+    </children>
+  </item>
+  <item nodeId="node-0xb40d630">
+    <command xml:space="preserve">talk to asimov</command>
+    <result xml:space="preserve">You say hello to Isaac Asimov.
+
+You have nothing specific in mind to discuss with Isaac Asimov right now.
+
+&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>NO</played>
+    <changed>YES</changed>
+    <temporary score="0">YES</temporary>
+    <annotation xml:space="preserve"></annotation>
+    <children>
+      <child nodeId="node-0xb40d708"/>
+    </children>
+  </item>
+  <item nodeId="node-0xb40d708">
+    <command xml:space="preserve">examine asimov</command>
+    <result xml:space="preserve">You see nothing special about Isaac Asimov.
+
+&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>NO</played>
+    <changed>YES</changed>
+    <temporary score="0">YES</temporary>
+    <annotation xml:space="preserve"></annotation>
+  </item>
+  <item nodeId="node-0x15228048">
+    <command xml:space="preserve">east</command>
+    <result xml:space="preserve">
+Window Ledge
+
+&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>NO</played>
+    <changed>YES</changed>
+    <temporary score="0">YES</temporary>
+    <annotation xml:space="preserve"></annotation>
+    <children>
+      <child nodeId="node-0x15228120"/>
+      <child nodeId="node-0x15228708"/>
+    </children>
+  </item>
+  <item nodeId="node-0x15228120">
+    <command xml:space="preserve">sit on the window</command>
+    <result xml:space="preserve">You can&apos;t, since the window leads nowhere.
+
+&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>NO</played>
+    <changed>YES</changed>
+    <temporary score="0">YES</temporary>
+    <annotation xml:space="preserve"></annotation>
+    <children>
+      <child nodeId="node-0x152281f8"/>
+    </children>
+  </item>
+  <item nodeId="node-0x152281f8">
+    <command xml:space="preserve">listen</command>
+    <result xml:space="preserve">You hear nothing unexpected.
+
+&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>NO</played>
+    <changed>YES</changed>
+    <temporary score="0">YES</temporary>
+    <annotation xml:space="preserve"></annotation>
+  </item>
+  <item nodeId="node-0x15228708">
+    <command xml:space="preserve">l</command>
+    <result xml:space="preserve">Window Ledge
+
+&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>NO</played>
+    <changed>YES</changed>
+    <temporary score="0">YES</temporary>
+    <annotation xml:space="preserve"></annotation>
+    <children>
+      <child nodeId="node-0x1a622840"/>
+    </children>
+  </item>
+  <item nodeId="node-0x1a622840">
+    <command xml:space="preserve">west</command>
+    <result xml:space="preserve">
+Con-Suite
+The Con-Suite is on the tenth floor of the some hotel or other.  You&apos;ve been drinking, and can&apos;t quite remember which one.  On the east side of the room is an open window.
+
+Isaac Asimov is here, surrounded by a gaggle of fans, holding forth in a somewhat ill fitting suit.
+
+&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>NO</played>
+    <changed>YES</changed>
+    <temporary score="0">YES</temporary>
+    <annotation xml:space="preserve"></annotation>
+    <children>
+      <child nodeId="node-0x1a622918"/>
+    </children>
+  </item>
+  <item nodeId="node-0x1a622918">
+    <command xml:space="preserve">sit on the window ledge</command>
+    <result xml:space="preserve">I only understood you as far as wanting to sit on the window.
+
+&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>NO</played>
+    <changed>YES</changed>
+    <temporary score="0">YES</temporary>
+    <annotation xml:space="preserve"></annotation>
+    <children>
+      <child nodeId="node-0x1a6229f0"/>
+    </children>
+  </item>
+  <item nodeId="node-0x1a6229f0">
+    <command xml:space="preserve">sit on the window</command>
+    <result xml:space="preserve">
+Window Ledge
+
+&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>NO</played>
+    <changed>YES</changed>
+    <temporary score="0">YES</temporary>
+    <annotation xml:space="preserve"></annotation>
+    <children>
+      <child nodeId="node-0x1a622ac8"/>
+    </children>
+  </item>
+  <item nodeId="node-0x1a622ac8">
+    <command xml:space="preserve">w</command>
+    <result xml:space="preserve">
+Con-Suite
+The Con-Suite is on the tenth floor of the some hotel or other.  You&apos;ve been drinking, and can&apos;t quite remember which one.  On the east side of the room is an open window.
+
+Isaac Asimov is here, surrounded by a gaggle of fans, holding forth in a somewhat ill fitting suit.
+
+&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>NO</played>
+    <changed>YES</changed>
+    <temporary score="0">YES</temporary>
+    <annotation xml:space="preserve"></annotation>
+    <children>
+      <child nodeId="node-0x1a622ba0"/>
+    </children>
+  </item>
+  <item nodeId="node-0x1a622ba0">
+    <command xml:space="preserve">drink</command>
+    <result xml:space="preserve">(Isaac Asimov)
+There&apos;s nothing suitable to drink here.
+
+&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>NO</played>
+    <changed>YES</changed>
+    <temporary score="0">YES</temporary>
+    <annotation xml:space="preserve"></annotation>
+  </item>
+  <item nodeId="node-0x152282d0">
+    <command xml:space="preserve">look window</command>
+    <result xml:space="preserve">You see nothing special about the window.
+
+&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>NO</played>
+    <changed>YES</changed>
+    <temporary score="0">YES</temporary>
+    <annotation xml:space="preserve"></annotation>
+    <children>
+      <child nodeId="node-0x152283a8"/>
+    </children>
+  </item>
+  <item nodeId="node-0x152283a8">
+    <command xml:space="preserve">r</command>
+    <result xml:space="preserve">That&apos;s not a verb I recognise.
+
+&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>NO</played>
+    <changed>YES</changed>
+    <temporary score="0">YES</temporary>
+    <annotation xml:space="preserve"></annotation>
+    <children>
+      <child nodeId="node-0x15228480"/>
+    </children>
+  </item>
+  <item nodeId="node-0x15228480">
+    <command xml:space="preserve">e</command>
+    <result xml:space="preserve">
+Open Air
+
+&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>NO</played>
+    <changed>YES</changed>
+    <temporary score="0">YES</temporary>
+    <annotation xml:space="preserve"></annotation>
+    <children>
+      <child nodeId="node-0x15228558"/>
+    </children>
+  </item>
+  <item nodeId="node-0x15228558">
+    <command xml:space="preserve">w</command>
+    <result xml:space="preserve">
+Con-Suite
+The Con-Suite is on the tenth floor of the some hotel or other.  You&apos;ve been drinking, and can&apos;t quite remember which one.  On the east side of the room is an open window.
+
+Isaac Asimov is here, surrounded by a gaggle of fans, holding forth in a somewhat ill fitting suit.
+
+&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>NO</played>
+    <changed>YES</changed>
+    <temporary score="0">YES</temporary>
+    <annotation xml:space="preserve"></annotation>
+    <children>
+      <child nodeId="node-0x15228630"/>
+    </children>
+  </item>
+  <item nodeId="node-0x15228630">
+    <command xml:space="preserve">sit on window</command>
+    <result xml:space="preserve">
+Open Air
+
+&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>NO</played>
+    <changed>YES</changed>
+    <temporary score="0">YES</temporary>
+    <annotation xml:space="preserve"></annotation>
+  </item>
+  <item nodeId="node-0x1a622c78">
+    <command xml:space="preserve">inventory</command>
+    <result xml:space="preserve">You are carrying:
+  a glass (full)
+
+&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>NO</played>
+    <changed>YES</changed>
+    <temporary score="0">YES</temporary>
+    <annotation xml:space="preserve"></annotation>
+    <children>
+      <child nodeId="node-0x1a622d50"/>
+    </children>
+  </item>
+  <item nodeId="node-0x1a622d50">
+    <command xml:space="preserve">drink</command>
+    <result xml:space="preserve">(the glass (full))
+You drink a long draught.
+
+&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>NO</played>
+    <changed>YES</changed>
+    <temporary score="0">YES</temporary>
+    <annotation xml:space="preserve"></annotation>
+    <children>
+      <child nodeId="node-0x1a622e28"/>
+    </children>
+  </item>
+  <item nodeId="node-0x1a622e28">
+    <command xml:space="preserve">drink</command>
+    <result xml:space="preserve">(the glass (partly drained))
+You drink a long draught.
+
+&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>NO</played>
+    <changed>YES</changed>
+    <temporary score="0">YES</temporary>
+    <annotation xml:space="preserve"></annotation>
+    <children>
+      <child nodeId="node-0x1a622f00"/>
+    </children>
+  </item>
+  <item nodeId="node-0x1a622f00">
+    <command xml:space="preserve">drink</command>
+    <result xml:space="preserve">(the glass (empty))
+You&apos;re out of beer.
+
+&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>NO</played>
+    <changed>YES</changed>
+    <temporary score="0">YES</temporary>
+    <annotation xml:space="preserve"></annotation>
+  </item>
+  <item nodeId="node-0x211df820">
+    <command xml:space="preserve">drink bottle</command>
+    <result xml:space="preserve">There&apos;s nothing suitable to drink here.
+
+&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>NO</played>
+    <changed>YES</changed>
+    <temporary score="0">YES</temporary>
+    <annotation xml:space="preserve"></annotation>
+    <children>
+      <child nodeId="node-0x211df8f8"/>
+    </children>
+  </item>
+  <item nodeId="node-0x211df8f8">
+    <command xml:space="preserve">drink bottle of rum</command>
+    <result xml:space="preserve">There&apos;s nothing suitable to drink here.
+
+&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>NO</played>
+    <changed>YES</changed>
+    <temporary score="0">YES</temporary>
+    <annotation xml:space="preserve"></annotation>
+  </item>
+  <item nodeId="node-0x211df9d0">
+    <command xml:space="preserve">examine asimov</command>
+    <result xml:space="preserve">You see nothing special about Isaac Asimov.
+
+&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>NO</played>
+    <changed>YES</changed>
+    <temporary score="0">YES</temporary>
+    <annotation xml:space="preserve"></annotation>
+  </item>
+  <item nodeId="node-0x211dfaa8">
+    <command xml:space="preserve">examine adolescent</command>
+    <result xml:space="preserve">You see nothing special about the Middle-aged Adolescent.
+
+&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="0">YES</temporary>
+    <annotation xml:space="preserve"></annotation>
+    <children>
+      <child nodeId="node-0x211dfb80"/>
+    </children>
+  </item>
+  <item nodeId="node-0x211dfb80">
+    <command xml:space="preserve">look adolecent</command>
+    <result xml:space="preserve">You can&apos;t see any such thing.
+
+&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="0">YES</temporary>
+    <annotation xml:space="preserve"></annotation>
+    <children>
+      <child nodeId="node-0x211dfc58"/>
+    </children>
+  </item>
+  <item nodeId="node-0x211dfc58">
+    <command xml:space="preserve">plugh</command>
+    <result xml:space="preserve">A hollow voice says &quot;Fool&quot;.
+
+&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>YES</played>
     <changed>YES</changed>
     <temporary score="0">YES</temporary>
     <annotation xml:space="preserve"></annotation>
