@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <Skein rootNode="node-0xa2920f8" xmlns="http://www.logicalshift.org.uk/IF/Skein">
   <generator>GNOME Inform 7</generator>
-  <activeNode nodeId="node-0x211dfc58"/>
+  <activeNode nodeId="node-0xa2920f8"/>
   <item nodeId="node-0xa2920f8">
     <command xml:space="preserve">- start -</command>
     <result xml:space="preserve">
@@ -15,11 +15,13 @@ An Interactive Fiction by Larry Niven and Jerry Pournelle
 Release 1 / Serial number 120424 / Inform 7 build 6G60 (I6/v6.32 lib 6/12N) SD
 
 Con-Suite
-The Con-Suite is on the tenth floor of the some hotel or other.  You&apos;ve been drinking, and can&apos;t quite remember which one.  On the east side of the room is an open window.
+This could be any hotel suite in any hotel in Anywhere USA, except this one is filled with short ugly kids with pimples, tall serious Harvard types, girls with long stringy hair, half-pretty girls half-dressed to show it, and damn few people with good manners.  
+
+On the east side of the room is an open window.
 
 Isaac Asimov is here, surrounded by a gaggle of fans, holding forth in a somewhat ill fitting suit.
 
-You can also see a Middle-aged Adolescent here.
+He has acne and halitosis.
 
 &gt;</result>
     <commentary xml:space="preserve"></commentary>
@@ -5177,7 +5179,7 @@ You&apos;re out of beer.
 
 &gt;</result>
     <commentary xml:space="preserve"></commentary>
-    <played>YES</played>
+    <played>NO</played>
     <changed>YES</changed>
     <temporary score="0">YES</temporary>
     <annotation xml:space="preserve"></annotation>
@@ -5191,7 +5193,7 @@ You&apos;re out of beer.
 
 &gt;</result>
     <commentary xml:space="preserve"></commentary>
-    <played>YES</played>
+    <played>NO</played>
     <changed>YES</changed>
     <temporary score="0">YES</temporary>
     <annotation xml:space="preserve"></annotation>
@@ -5205,7 +5207,7 @@ You&apos;re out of beer.
 
 &gt;</result>
     <commentary xml:space="preserve"></commentary>
-    <played>YES</played>
+    <played>NO</played>
     <changed>YES</changed>
     <temporary score="0">YES</temporary>
     <annotation xml:space="preserve"></annotation>

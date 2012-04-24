@@ -31,13 +31,13 @@ After printing the name of the glass: say " ([glass condition])"
 
 A bottle is a kind of thing. 
 
-Con-Suite is a room. "The Con-Suite is on the tenth floor of the some hotel or other.  You've been drinking, and can't quite remember which one.  On the east side of the room is an open window."
+Con-Suite is a room. "This could be any hotel suite in any hotel in Anywhere USA, except this one is filled with short ugly kids with pimples, tall serious Harvard types, girls with long stringy hair, half-pretty girls half-dressed to show it, and damn few people with good manners.  [paragraph break]On the east side of the room is an open window."
 
 The window is a door.  The window is open.  The window is scenery.  The window is east of the Con-Suite and west of Window Ledge.
 
 Isaac Asimov is a man in Con-Suite.    "Isaac Asimov is here, surrounded by a gaggle of fans, holding forth in a somewhat ill fitting suit."
 
-A Middle-aged Adolescent is a man in Con-Suite.  middle-aged adolescent carries a bottle of rum. "He has acne and halitosis."
+A Middle-aged Adolescent is a man in Con-Suite.  middle-aged adolescent carries a bottle of rum. "A Middle-Aged Adolescent with obvious acne and halitosis is here."
 
 
 [Room:Window Ledge]
